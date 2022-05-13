@@ -1,0 +1,36 @@
+{
+  "name": "conf-21",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "deploy": "npm run build && echo 2021.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo git@github.com:JSConfArmenia/conf-21.git --branch gh-pages",
+    "deployHttps": "npm run build && echo 2021.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo https://github.com/JSConfArmenia/conf-21.git --branch gh-pages",
+    "deployMain": "npm run build && echo jsconf.am > ./dist/CNAME && gh-pages -d dist --repo git@github.com:JSConfArmenia/jsconf.am.git --branch gh-pages",
+    "deployMainHttps": "npm run build && echo jsconf.am > ./dist/CNAME && gh-pages -d dist --repo https://github.com/JSConfArmenia/jsconf.am.git --branch gh-pages"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "css-loader": "^1.0.0",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.22.2",
+    "postcss-loader": "^3.0.0",
+    "vue": "^2.5.17",
+    "vue-directive-tooltip": "^1.5.0",
+    "vue-smooth-scroll": "^1.0.13",
+    "vue2-scrollspy": "^2.3.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-plugin-eslint": "^3.0.1",
+    "@vue/cli-service": "^3.0.1",
+    "@vue/eslint-config-airbnb": "^3.0.1",
+    "gh-pages": "^1.2.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}

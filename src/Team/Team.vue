@@ -75,22 +75,27 @@ export default {
       },
     ],
     asistants: [
-      {
-        img: '/team/Gevorg_Gasparyan.jpg',
-        name: 'Gevorg Gasparyan',
-        position: 'Event Asistant',
-      },
-      {
-        img: '/team/Anna_Martirosyan.jpg',
-        name: 'Anna Martirosyan',
-        position: 'Head of volunteering team',
-      },
+      // {
+      //   img: '/team/Gevorg_Gasparyan.jpg',
+      //   name: 'Gevorg Gasparyan',
+      //   position: 'Event Asistant',
+      // },
+      // {
+      //   img: '/team/Anna_Martirosyan.jpg',
+      //   name: 'Anna Martirosyan',
+      //   position: 'Head of volunteering team',
+      // },
     ],
   }),
 };
 </script>
 
 <style scoped lang="scss">
+
+  .Team {
+    padding-top: 4rem;
+  }
+
   .Title {
     text-align: center;
     color: #198dbf;

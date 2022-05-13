@@ -3,12 +3,12 @@
     <AppHeader />
     <Intro />
     <About />
-    <Schedule />
-    <Speakers />
-    <Sponsors />
-    <Jobs />
+    <!-- <Schedule /> -->
+    <!-- <Speakers /> -->
+    <!-- <Sponsors /> -->
+    <!-- <Jobs /> -->
     <Team />
-    <Location />
+    <!-- <Location /> -->
     <Faq />
     <!-- <Quiz /> -->
     <AppFooter />

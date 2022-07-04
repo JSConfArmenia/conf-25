@@ -1,158 +1,137 @@
 <template>
-  <section class="Sponsors">
+  <section class="Sponsors" id="Sponsors">
     <div class="Container">
-      <section class="Section" id="Sponsors">
+      <!-- <section class="Section" id="Sponsors">
         <h3 class="Subtitle">General sponsor</h3>
 
         <div class="row justify-content-center">
           <div>
             <a class="Sponsor Sponsor-Simply -main" href="https://www.simplytechnologies.net/" target="_blank">
               <div class="Image"></div>
-            <!-- <h4  class="Name">Simply Technologies</h4> -->
             </a>
           </div>
         </div>
-      </section>
-      <section class="Section">
+      </section> -->
+      <!-- <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
         <div class="row justify-content-center">
         <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-SuperAnnotate -gold" href="https://superannotate.com/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">SuperAnnotate</h4> -->
             </a>
         </div>
 
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-MentorcliQ -gold" href="https://www.mentorcliq.com/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">MentorcliQ</h4> -->
             </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-PicsArt -gold" href="https://picsart.com/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Picsart</h4> -->
             </a>
           </div>
             <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-Hexact -gold" href="https://hexact.io/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Hexact, Inc.</h4> -->
             </a>
           </div>
             <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-WebbFontaine -gold" href="https://webbfontaine.com/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Webb Fontaine</h4> -->
             </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Krisp -gold" href="https://krisp.ai/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">Krisp</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Flux -gold" href="https://fluxtech.me/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">Flux Technologies</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-10Web -gold" href="https://10web.io/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">10Web</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Sololearn -gold" href="https://www.sololearn.com/home" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">Sololearn</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Adobe -gold" href="https://www.adobe.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">Adobe</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Digitain -gold" href="https://www.digitain.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">Digitain</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-SPro -gold" href="https://s-pro.io/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">S-Pro</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-EPAM -gold" href="https://www.epam.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">EPAM Systems</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-CodeSignal -gold" href="https://codesignal.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">CodeSignal</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-VMware -gold" href="https://www.vmware.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">VMware</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Disqo -gold" href="https://disqo.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">DISQO</h4> -->
           </a>
           </div>
           <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-SoftConstruct -gold" href="https://www.softconstruct.com/" target="_blank">
             <div class="Image"></div>
-            <!-- <h4  class="Name">SoftConstruct</h4> -->
           </a>
           </div>
         </div>
-      </section>
-      <section class="Section">
+      </section> -->
+      <!-- <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
         <div class="row justify-content-center">
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Renderforest</h4> -->
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-SDC -silver" href="https://sdc.am/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">SDC</h4> -->
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Ameria -silver" href="https://ameriabank.am/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Ameriabank</h4> -->
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-StepConsulting -silver" href="https://stepconsulting.am/" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">StepConsulting</h4> -->
             </a>
           </div>
         </div>
-      </section>
-<!--
+      </section> -->
+
+      <!--
       <section class="Section">
         <h3 class="Subtitle">Starter sponsors</h3>
 
@@ -175,12 +154,12 @@
               <h4  class="Name">IT Jobs</h4>
             </a>
           </div>
-      </section>
+      </section> -->
       <div class="CallToActionContainer">
-        <a href="http://bit.ly/supportJSConfAM21" class="Button -call-to-action -small" target="_blank">
+        <a href="http://bit.ly/supportJSConfAM22" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
         </a>
-      </div> -->
+      </div>
     </div>
 
     <div class="SponsorsBgTop"></div>

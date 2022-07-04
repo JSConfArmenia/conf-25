@@ -3,7 +3,7 @@
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <!-- <h2 class="Subtitle">Sundukyan Academic Theatre</h2> -->
-      <h3 class="Subtitle">October 2022</h3>
+      <h3 class="Subtitle">October 15, 2022</h3>
       <!-- <a href="https://bit.ly/joinJSConfAM21" class="Button -default" target="_blank">
         Request an Invite
       </a> -->

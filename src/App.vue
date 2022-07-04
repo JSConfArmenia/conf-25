@@ -4,11 +4,11 @@
     <Intro />
     <About />
     <!-- <Schedule /> -->
-    <!-- <Speakers /> -->
-    <!-- <Sponsors /> -->
+    <Speakers />
+    <Sponsors />
     <!-- <Jobs /> -->
     <Team />
-    <!-- <Location /> -->
+    <Location />
     <Faq />
     <!-- <Quiz /> -->
     <AppFooter />

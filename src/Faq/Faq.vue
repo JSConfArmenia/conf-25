@@ -10,7 +10,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM21 will be held on October 15, 2022, from 9:00 to 19:00 at
+          JSConfAM22 will be held on October 15, 2022, from 9:00 to 19:00 at
           <a href="https://goo.gl/maps/6onRXgzvNzx2EBgv6" target="_blank">Sundukyan State Academic Theatre</a>
           (6 Grigor Lusavorich Street, Yerevan).
         </p>
@@ -57,17 +57,16 @@
         <p class="Answer">
         This year we are not accepting volunteer applications but you can share the word about the conf that will be appreciated.
         </p> -->
-        <!-- <h3 class="Question">How to become a speaker?</h3>
+        <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          The call for JSConfAM22 speakers is already closed.
-        </p> -->
-        <!-- <h3 class="Question">How to become a sponsor?</h3>
+          Submit your topics <a href="https://bit.ly/speakJS2022">here</a>.
+        </p>
+        <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          The call for JSConfAM22 sponsors is already closed.
-        </p> -->
+          Request JSConfAM22 sponsorship info <a href="http://bit.ly/supportJSConfAM22">here</a>..
+        </p>
       </div>
     </div>
-
   </div>
 </template>
 

@@ -43,7 +43,7 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>
+          The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>.
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">

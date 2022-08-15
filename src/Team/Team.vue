@@ -56,7 +56,7 @@ export default {
       {
         img: '/team/Varser_Zakaryan.jpeg',
         name: 'Varser Zakaryan',
-        position: 'Co-founder, CEO at Tech Events Armenia',
+        position: 'Co-founder at JS Conf Armenia',
       },
       {
         img: '/team/Gevorg_Harutyunyan.jpg',
@@ -71,7 +71,7 @@ export default {
       {
         img: '/team/Edgar_Marukyan.jpg',
         name: 'Edgar Marukyan',
-        position: 'CTO at Renderforest',
+        position: 'Co-founder at JS Conf Armenia',
       },
     ],
     asistants: [

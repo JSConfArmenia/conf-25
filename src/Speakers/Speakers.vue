@@ -27,7 +27,7 @@
         <!-- <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
           Become a Speaker!
         </a> -->
-        <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
+        <a href="https://bit.ly/3Se0b9l" class="Button -call-to-action" target="_blank">
           Subscribe
         </a>
       </div>

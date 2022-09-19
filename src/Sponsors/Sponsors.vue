@@ -1,6 +1,10 @@
 <template>
   <section class="Sponsors" id="Sponsors">
     <div class="Container">
+      <h2 class="Title">Sponsor<br><span class="Accent">opportunities</span></h2>
+      <p class="IntroText">
+          Sign up for conference news and sponsorship opportunities in 2023
+      </p>
       <!-- <section class="Section" id="Sponsors">
         <h3 class="Subtitle">General sponsor</h3>
 
@@ -156,9 +160,12 @@
           </div>
       </section> -->
       <div class="CallToActionContainer">
-        <a href="http://bit.ly/supportJSConfAM22" class="Button -call-to-action -small" target="_blank">
-          Become a sponsor!
+        <a href="https://bit.ly/3qRPuOm" class="Button -call-to-action -small" target="_blank">
+          Subscribe
         </a>
+        <!-- <a href="http://bit.ly/supportJSConfAM22" class="Button -call-to-action -small" target="_blank">
+          Become a sponsor!
+        </a> -->
       </div>
     </div>
 
@@ -192,6 +199,13 @@ export default {
   z-index: 3;
 }
 
+.IntroText {
+ font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin-bottom: 1em;
+}
+
 .Subtutle {
   color: #ef4e4e;
   font-size: 32px;
@@ -218,6 +232,19 @@ export default {
 
 .SponsorCol {
   margin-bottom: 25px;
+}
+
+.Title {
+  font-size: 4em;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin-bottom: 1em;
+
+  .Accent {
+    font-size: 1.2em;
+    color: #ffdd00;
+    font-weight: 900;
+  }
 }
 
 .Sponsor {

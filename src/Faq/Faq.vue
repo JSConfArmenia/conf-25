@@ -10,9 +10,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM22 will be held on October 15, 2022, from 9:00 to 19:00 at
-          <a href="https://goo.gl/maps/6onRXgzvNzx2EBgv6" target="_blank">Sundukyan State Academic Theatre</a>
-          (6 Grigor Lusavorich Street, Yerevan).
+          JSConfAM23 date and location will be announced. Stay tuned and follow our social media pages.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
@@ -20,8 +18,9 @@
         </p>
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
-          To learn more about our speakers, please,
-          <a href="#Speakers">click here</a>.
+          Anyone who has knowledge to share with developer peers who use JavaScript.
+          <!-- To learn more about our speakers, please,
+          <a href="#Speakers">click here</a>. -->
         </p>
         <!-- <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
@@ -33,17 +32,19 @@
           To see JS Conf Armenia team, please,
           <a href="#Team">click here</a>.
         </p>
-        <h3 class="Question">Who supports JS Conf Armenia?</h3>
+        <!-- <h3 class="Question">Who supports JS Conf Armenia?</h3>
         <p class="Answer">
+          Armenian and regional tech companies who value community events and experience exchange activities.
           To learn about our sponsors and partners, please,
           <a href="#Sponsors">click here</a>.
-        </p>
+        </p> -->
       </div>
 
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>.
+          The registration call will be announced accordingly. Follow our social media for the updates.
+          <!-- The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>. -->
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
@@ -59,11 +60,13 @@
         </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          Submit your topics <a href="https://bit.ly/speakJS2022">here</a>.
+          Sign up <a href="https://bit.ly/3Se0b9l">here</a> for conference speaker opportunities in 2023.
+          <!-- Submit your topics <a href="https://bit.ly/speakJS2022">here</a>. -->
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          Request JSConfAM22 sponsorship info <a href="http://bit.ly/supportJSConfAM22">here</a>..
+          Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2023.
+          <!-- Request JSConfAM22 sponsorship info <a href="http://bit.ly/supportJSConfAM22">here</a>. -->
         </p>
       </div>
     </div>

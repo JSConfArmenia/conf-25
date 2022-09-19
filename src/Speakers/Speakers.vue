@@ -1,8 +1,12 @@
 <template>
   <section class="Speakers">
     <div class="Container" id="Speakers">
-      <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
-      <!-- <div class="row no-gutters justify-content-center">
+      <h2 class="Title">Speaker<br><span class="Accent">opportunities</span></h2>
+      <p class="IntroText">
+          Sign up for call for speaker news in 2023
+      </p>
+      <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
+      <div class="row no-gutters justify-content-center">
         <div
           class="col-md-3 SpeakerCol"
           v-for="speakerId in speakersList"
@@ -20,8 +24,11 @@
         </div>
       </div> -->
       <div class="CallToActionContainer">
-        <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
+        <!-- <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
           Become a Speaker!
+        </a> -->
+        <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
+          Subscribe
         </a>
       </div>
     </div>
@@ -70,6 +77,13 @@ export default {
 .Speakers {
   padding:  100px 0 50px 0;
   position: relative;
+}
+
+.IntroText {
+ font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin-bottom: 1em;
 }
 
 .Title {

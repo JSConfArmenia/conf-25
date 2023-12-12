@@ -3,7 +3,7 @@
     <div class="Container">
       <h2 class="Title">Sponsor<br><span class="Accent">opportunities</span></h2>
       <p class="IntroText">
-          Sign up for conference news and sponsorship opportunities in 2023
+          Sign up for conference news and sponsorship opportunities in 2024
       </p>
       <!-- <section class="Section" id="Sponsors">
         <h3 class="Subtitle">General sponsor</h3>

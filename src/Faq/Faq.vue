@@ -60,12 +60,12 @@
         </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          Sign up <a href="https://bit.ly/3Se0b9l">here</a> for conference speaker opportunities in 2023.
+          Sign up <a href="https://bit.ly/3Se0b9l">here</a> for conference speaker opportunities in 2024.
           <!-- Submit your topics <a href="https://bit.ly/speakJS2022">here</a>. -->
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2023.
+          Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024.
           <!-- Request JSConfAM22 sponsorship info <a href="http://bit.ly/supportJSConfAM22">here</a>. -->
         </p>
       </div>

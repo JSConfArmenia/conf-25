@@ -3,7 +3,7 @@
     <div class="Container" id="Speakers">
       <h2 class="Title">Speaker<br><span class="Accent">opportunities</span></h2>
       <p class="IntroText">
-          Sign up for call for speaker news in 2023
+          Sign up for call for speaker news in 2024
       </p>
       <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">

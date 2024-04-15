@@ -1,9 +1,9 @@
 <template>
   <section class="Speakers">
     <div class="Container" id="Speakers">
-      <h2 class="Title">Speaker<br><span class="Accent">opportunities</span></h2>
+      <h2 class="Title">Speaking<br><span class="Accent">opportunities</span></h2>
       <p class="IntroText">
-          Sign up for call for speaker news in 2024
+          Speaker application is open!
       </p>
       <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">
@@ -24,11 +24,8 @@
         </div>
       </div> -->
       <div class="CallToActionContainer">
-        <!-- <a href="https://bit.ly/speakJS2022" class="Button -call-to-action" target="_blank">
+        <a href="https://bit.ly/JSConfAM24speakers" class="Button -call-to-action" target="_blank">
           Become a Speaker!
-        </a> -->
-        <a href="https://bit.ly/3Se0b9l" class="Button -call-to-action" target="_blank">
-          Subscribe
         </a>
       </div>
     </div>

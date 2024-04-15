@@ -29,11 +29,11 @@
         <a class="Item" href="#Sponsors" v-smooth-scroll="navConfig" v-on:click="close">Sponsors</a>
         <!-- <a class="Item" href="#Jobs" v-smooth-scroll="navConfig" v-on:click="close">Jobs</a> -->
         <a class="Item" href="#Team" v-smooth-scroll="navConfig" v-on:click="close">Team</a>
-        <!-- <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a> -->
+        <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a>
         <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
         <!-- <a class="Item RequestInvite" href="https://bit.ly/joinJSConfAM22" target="_blank" >Request an Invite</a> -->
-        <a class="Item RequestInvite" href="https://www.youtube.com/c/JavaScriptConferenceArmenia" target="_blank" >Watch videos</a>
+        <!-- <a class="Item RequestInvite" href="https://www.youtube.com/c/JavaScriptConferenceArmenia" target="_blank">Watch videos</a> -->
       </nav>
     </div>
   </div>

@@ -10,7 +10,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM23 date and location will be announced. Stay tuned and follow our social media pages.
+          JSConfAM24 is going to be held on June 9 at Synergy Business Center.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
@@ -19,8 +19,8 @@
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
           Anyone who has knowledge to share with developer peers who use JavaScript.
-          <!-- To learn more about our speakers, please,
-          <a href="#Speakers">click here</a>. -->
+          To learn more about speaking opportunities at our conference, please,
+          <a href="#Speakers">click here</a>.
         </p>
         <!-- <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
@@ -43,13 +43,13 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The registration call will be announced accordingly. Follow our social media for the updates.
+          The registration call will be announced soon. Follow our social media for the updates.
           <!-- The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>. -->
         </p>
-        <h3 class="Question">How much is the entry-ticket?</h3>
+        <!-- <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
           The invitation ticket is free of charge.
-        </p>
+        </p> -->
         <!-- <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
           The last batch of invitation tickets will be sent on October 14 at 22:00. Make sure to request your ticket before that.
@@ -60,13 +60,12 @@
         </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          Sign up <a href="https://bit.ly/3Se0b9l">here</a> for conference speaker opportunities in 2024.
-          <!-- Submit your topics <a href="https://bit.ly/speakJS2022">here</a>. -->
+          If you want to join as speaker submit your topics <a href="https://bit.ly/JSConfAM24speakers">here</a>.
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024.
-          <!-- Request JSConfAM22 sponsorship info <a href="http://bit.ly/supportJSConfAM22">here</a>. -->
+          <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
+          Request JSConfAM22 sponsorship info <a href="https://bit.ly/JSConfAM24sponsors">here</a>.
         </p>
       </div>
     </div>

@@ -8,7 +8,7 @@
     <Sponsors />
     <!-- <Jobs /> -->
     <Team />
-    <!-- <Location /> -->
+    <Location />
     <Faq />
     <!-- <Quiz /> -->
     <AppFooter />

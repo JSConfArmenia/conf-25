@@ -7,7 +7,7 @@
 
       <iframe
         class="Map"
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12194.405990222456!2d44.5073634!3d40.1734255!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ca36012e8fad5e!2sSundukyan%20State%20Academic%20Theatre!5e0!3m2!1sen!2s!4v1623867541385!5m2!1sen!2s" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12191.320176749094!2d44.5324715!3d40.1905956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcdbd9d2fa23%3A0xb9e071be81568a19!2sSynergy%20Business%20Center!5e0!3m2!1sen!2sam!4v1713209228698!5m2!1sen!2sam" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
       </iframe>
 
       <span class="text">HERE WE ARE!</span>

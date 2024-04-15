@@ -1,9 +1,9 @@
 <template>
   <section class="Sponsors" id="Sponsors">
     <div class="Container">
-      <h2 class="Title">Sponsor<br><span class="Accent">opportunities</span></h2>
+      <h2 class="Title">Sponsoring<br><span class="Accent">opportunities</span></h2>
       <p class="IntroText">
-          Sign up for conference news and sponsorship opportunities in 2024
+          Request sponsorship options and join our event!
       </p>
       <!-- <section class="Section" id="Sponsors">
         <h3 class="Subtitle">General sponsor</h3>
@@ -160,12 +160,9 @@
           </div>
       </section> -->
       <div class="CallToActionContainer">
-        <a href="https://bit.ly/3qRPuOm" class="Button -call-to-action -small" target="_blank">
-          Subscribe
-        </a>
-        <!-- <a href="http://bit.ly/supportJSConfAM22" class="Button -call-to-action -small" target="_blank">
+        <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
-        </a> -->
+        </a>
       </div>
     </div>
 

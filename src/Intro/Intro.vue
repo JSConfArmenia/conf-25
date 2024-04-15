@@ -4,9 +4,9 @@
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <h2 class="Subtitle">Synergy Business Center</h2>
       <h3 class="Subtitle">June 9, 2024</h3>
-      <!-- <a href="https://bit.ly/joinJSConfAM21" class="Button -default" target="_blank">
-        Request an Invite
-      </a> -->
+      <a href="https://bit.ly/JSConfAM24speakers" class="Button -call-to-action" target="_blank">
+        Become a speaker!
+      </a>
     </div>
 
     <!-- <div class="IntroSponsor">

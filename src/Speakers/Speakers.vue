@@ -1,7 +1,7 @@
 <template>
   <section class="Speakers">
     <div class="Container" id="Speakers">
-      <h2 class="Title">Speaking<br><span class="Accent">opportunities</span></h2>
+      <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2>
       <p class="IntroText">
           Speaker application is open!
       </p>

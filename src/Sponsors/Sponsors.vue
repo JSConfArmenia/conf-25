@@ -1,21 +1,23 @@
 <template>
   <section class="Sponsors" id="Sponsors">
     <div class="Container">
-      <h2 class="Title">Sponsoring<br><span class="Accent">opportunities</span></h2>
-      <p class="IntroText">
-          Request sponsorship options and join our event!
-      </p>
-      <!-- <section class="Section" id="Sponsors">
-        <h3 class="Subtitle">General sponsor</h3>
+      <!-- <h2 class="Title">Sponsoring<br><span class="Accent">opportunities</span></h2> -->
+      <section class="Section" id="Sponsors">
+        <h3 class="Subtitle">General sponsors</h3>
 
         <div class="row justify-content-center">
+          <div>
+            <a class="Sponsor Sponsor-Adobe -main" href="https://rewards.adobe.com/armenia/" target="_blank">
+              <div class="Image"></div>
+            </a>
+          </div>
           <div>
             <a class="Sponsor Sponsor-Simply -main" href="https://www.simplytechnologies.net/" target="_blank">
               <div class="Image"></div>
             </a>
           </div>
         </div>
-      </section> -->
+      </section>
       <!-- <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
@@ -108,32 +110,17 @@
           </div>
         </div>
       </section> -->
-      <!-- <section class="Section">
+      <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
         <div class="row justify-content-center">
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
-              <div class="Image"></div>
-            </a>
-          </div>
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-SDC -silver" href="https://sdc.am/" target="_blank">
-              <div class="Image"></div>
-            </a>
-          </div>
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Ameria -silver" href="https://ameriabank.am/" target="_blank">
-              <div class="Image"></div>
-            </a>
-          </div>
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-StepConsulting -silver" href="https://stepconsulting.am/" target="_blank">
+            <a class="Sponsor Sponsor-InConceptLab -silver" href="https://www.inconceptlabs.com/" target="_blank">
               <div class="Image"></div>
             </a>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <!--
       <section class="Section">
@@ -159,6 +146,7 @@
             </a>
           </div>
       </section> -->
+      
       <div class="CallToActionContainer">
         <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
@@ -380,8 +368,8 @@ export default {
     background-image: url('/sponsors/adobe.svg')
   }
 
-  &.Sponsor-Renderforest .Image {
-    background-image: url('/sponsors/renderforest.svg');
+  &.Sponsor-InConceptLab .Image {
+    background-image: url('/sponsors/inconceptlab.svg');
   }
 
   &.Sponsor-Ameria .Image {

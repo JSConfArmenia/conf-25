@@ -4,10 +4,9 @@
 
     <div class="MapContainer">
       <div class="smart-object"></div>
-
       <iframe
         class="Map"
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12191.320176749094!2d44.5324715!3d40.1905956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcdbd9d2fa23%3A0xb9e071be81568a19!2sSynergy%20Business%20Center!5e0!3m2!1sen!2sam!4v1713209228698!5m2!1sen!2sam" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d333.71691723874!2d44.53161966594959!3d40.19004225802676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abdf02990f5b3%3A0x61e1f8b7191b33a0!2sSynergy%20Business%20Center%202nd%20building!5e0!3m2!1sen!2sam!4v1714049521675!5m2!1sen!2sam" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
       </iframe>
 
       <span class="text">HERE WE ARE!</span>

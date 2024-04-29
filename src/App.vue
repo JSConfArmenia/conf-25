@@ -95,12 +95,12 @@ export default {
   }
 
   &.-call-to-action {
-    background: #ef4e4e;
-    color: #fff;
+    background: #ffdd00;
+    color: #2c3e50;
 
     &:hover {
-      background: #ef4e4e;
-      color: #fff;
+      background: #ffdd00;
+      color: #2c3e50;
     }
   }
 

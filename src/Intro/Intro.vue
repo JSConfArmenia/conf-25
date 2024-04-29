@@ -9,16 +9,23 @@
       </a>
     </div>
 
-    <!-- <div class="IntroSponsor">
-      <div>
-        <a href="https://www.simplytechnologies.net/" target="_blank">
-          <img src="/sponsors/simply.svg" />
-        </a>
-      </div>
+    <div class="IntroSponsor">
       <div class="Description">
         General sponsors
       </div>
-    </div> -->
+      <div class="sponsor-logos-container">
+        <div>
+          <a class="Sponsor Sponsor-Adobe-main" href="https://rewards.adobe.com/armenia/" target="_blank">
+            <img src="/sponsors/adobe.svg" /> 
+          </a>
+        </div>
+        <div>
+          <a href="https://www.simplytechnologies.net/" target="_blank">
+            <img src="/sponsors/simply.svg" />
+          </a>
+        </div>
+      </div>
+    </div>
 
     <div class="IntroBgMain"></div>
     <div class="IntroBgLeft"></div>
@@ -62,7 +69,8 @@ export default {
 }
 
 .IntroSponsor img {
-  width: 320px;
+  width: 200px;
+  margin: 16px 0;
 }
 
 .IntroBgLeft {
@@ -113,8 +121,16 @@ export default {
 }
 
 @media (max-width: 450px) {
+  .sponsor-logos-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
   .Subtitle {
     text-shadow: 1px 1px 1px #f5f5f591;
+    font-size: 16px;
   }
 
   .IntroBgMain {
@@ -133,11 +149,11 @@ export default {
   }
 
   .Title {
-    font-size: 45px;
+    font-size: 48px;
   }
 
   .Subtitle {
-    font-size: 30px;
+    font-size: 18px;
   }
 
   .IntroSponsor {
@@ -155,7 +171,8 @@ export default {
   }
 
   .IntroSponsor img {
-    width: 260px;
+    width: 100px;
+    margin: 10px;
   }
 
   .Title {

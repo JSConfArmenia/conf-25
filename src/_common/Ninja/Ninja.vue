@@ -3,9 +3,9 @@
     <div class="NinjaImage">
 
     </div>
-    <div class="NinjaShadow">
+    <!-- <div class="NinjaShadow">
 
-    </div>
+    </div> -->
   </div>
 </template>
 

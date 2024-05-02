@@ -18,17 +18,17 @@
           </div>
         </div>
       </section>
-      <!-- <section class="Section">
+      <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
         <div class="row justify-content-center">
         <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-SuperAnnotate -gold" href="https://superannotate.com/" target="_blank">
+            <a class="Sponsor Sponsor-NolanAI -gold" href="https://www.nolanai.app/" target="_blank">
               <div class="Image"></div>
             </a>
         </div>
 
-          <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+         <!-- <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-MentorcliQ -gold" href="https://www.mentorcliq.com/" target="_blank">
               <div class="Image"></div>
             </a>
@@ -108,8 +108,9 @@
             <div class="Image"></div>
           </a>
           </div>
+          -->
         </div>
-      </section> -->
+      </section> 
       <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
@@ -148,7 +149,7 @@
       </section> -->
       
       <div class="CallToActionContainer">
-        <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action -small" target="_blank">
+        <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action" target="_blank">
           Become a sponsor!
         </a>
       </div>
@@ -270,7 +271,7 @@ export default {
   &.-gold {
     .Image {
       width: 250px;
-      height: 53px;
+      height: 60px;
     }
 
     .Name {
@@ -289,9 +290,8 @@ export default {
     }
   }
 
-  &.Sponsor-SuperAnnotate .Image {
-    background-image: url('/sponsors/superannotate.svg');
-    background-size: 240px;
+  &.Sponsor-NolanAI .Image {
+    background-image: url('/sponsors/nolanai.svg');
   }
 
   &.Sponsor-CodeSignal .Image {

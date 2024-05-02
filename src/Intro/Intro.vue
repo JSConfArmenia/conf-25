@@ -15,8 +15,8 @@
       </div>
       <div class="sponsor-logos-container">
         <div>
-          <a class="Sponsor Sponsor-Adobe-main" href="https://rewards.adobe.com/armenia/" target="_blank">
-            <img src="/sponsors/adobe.svg" /> 
+          <a href="https://rewards.adobe.com/armenia/" target="_blank">
+            <img class="IntroSponsorAdobe" src="/sponsors/adobe.svg" /> 
           </a>
         </div>
         <div>
@@ -66,11 +66,15 @@ export default {
   display: block;
   font-size: .8em;
   text-align: center;
+  width: 200px;
 }
 
 .IntroSponsor img {
-  width: 200px;
   margin: 16px 0;
+}
+
+.IntroSponsorAdobe {
+  width: 150px;
 }
 
 .IntroBgLeft {

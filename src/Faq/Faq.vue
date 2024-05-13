@@ -65,7 +65,7 @@
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
-          Request JSConfAM22 sponsorship info <a href="https://bit.ly/JSConfAM24sponsors">here</a>.
+          Request JSConfAM24 sponsorship info <a href="https://bit.ly/JSConfAM24sponsors">here</a>.
         </p>
       </div>
     </div>

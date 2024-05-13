@@ -32,7 +32,7 @@
         <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a>
         <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
-        <!-- <a class="Item RequestInvite" href="https://bit.ly/joinJSConfAM22" target="_blank" >Request an Invite</a> -->
+        <!-- <a class="Item RequestInvite" href="https://fienta.com/js-conf-armenia-2024" target="_blank" >Buy a ticket</a> -->
         <!-- <a class="Item RequestInvite" href="https://www.youtube.com/c/JavaScriptConferenceArmenia" target="_blank">Watch videos</a> -->
       </nav>
     </div>

@@ -1,8 +1,7 @@
 <template>
-  <section class="Sponsors" id="Sponsors">
-    <div class="Container">
-      <!-- <h2 class="Title">Sponsoring<br><span class="Accent">opportunities</span></h2> -->
-      <section class="Section" id="Sponsors">
+  <section class="Sponsors">
+    <div class="Container" id="Sponsors">
+      <section class="Section">
         <h3 class="Subtitle">General sponsors</h3>
 
         <div class="row justify-content-center">
@@ -120,13 +119,16 @@
               <div class="Image"></div>
             </a>
           </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-Ameriabank -silver" href="https://ameriabank.am/" target="_blank">
+              <div class="Image"></div>
+            </a>
+          </div>
         </div>
       </section>
-
       <!--
       <section class="Section">
         <h3 class="Subtitle">Starter sponsors</h3>
-
         <div class="row justify-content-center">
           <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Armsoft -starter" href="http://www.armsoft.am/" target="_blank">
@@ -138,7 +140,6 @@
       </section>
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
-
         <div class="row justify-content-center">
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-itjobs -starter" href="https://www.itjobs.am/" target="_blank">
@@ -147,7 +148,6 @@
             </a>
           </div>
       </section> -->
-      
       <div class="CallToActionContainer">
         <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action" target="_blank">
           Become a sponsor!
@@ -170,7 +170,6 @@ export default {
 .Sponsors {
   padding: 15vw 0;
   background-color: #f5f5f5;
-  // background-color: #f5f5f5;
   // background-image: url('./SponsorsBg.png');
   background-repeat: no-repeat;
   min-height: 1000px;
@@ -372,8 +371,8 @@ export default {
     background-image: url('/sponsors/inconceptlab.svg');
   }
 
-  &.Sponsor-Ameria .Image {
-    background-image: url('/sponsors/ameriabank.png');
+  &.Sponsor-Ameriabank .Image {
+    background-image: url('/sponsors/ameriabank.svg');
   }
 
   &.Sponsor-SDC .Image {

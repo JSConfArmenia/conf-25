@@ -3,7 +3,7 @@
     <div class="Container" id="Speakers">
       <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2>
       <p class="IntroText">
-          Speaker application is open!
+          We no longer accept applications. The speaker line up is coming soon!
       </p>
       <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">
@@ -23,11 +23,11 @@
           </div>
         </div>
       </div> -->
-      <div class="CallToActionContainer">
+      <!-- <div class="CallToActionContainer">
         <a href="https://bit.ly/JSConfAM24speakers" class="Button -call-to-action" target="_blank">
           Become a Speaker!
         </a>
-      </div>
+      </div> -->
     </div>
     <div class="SpeakersBg"></div>
   </section>

@@ -19,7 +19,7 @@
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
           Anyone who has knowledge to share with developer peers who use JavaScript.
-          To learn more about speaking opportunities at our conference, please,
+          To see the line up, please,
           <a href="#Speakers">click here</a>.
         </p>
         <!-- <h3 class="Question">What are the talk topics?</h3>
@@ -60,7 +60,7 @@
         </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          If you want to join as speaker submit your topics <a href="https://bit.ly/JSConfAM24speakers">here</a>.
+          The speaker application has already closed.
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">

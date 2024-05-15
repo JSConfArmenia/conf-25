@@ -119,11 +119,6 @@
               <div class="Image"></div>
             </a>
           </div>
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Ameriabank -silver" href="https://ameriabank.am/" target="_blank">
-              <div class="Image"></div>
-            </a>
-          </div>
         </div>
       </section>
       <!--

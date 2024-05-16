@@ -6,11 +6,11 @@
       <div class="col-md-6">
         <h3 class="Question">What is JavaScript Conference Armenia?</h3>
         <p class="Answer">
-          JS Conf Armenia is an international annual JavaScript conference and the biggest tech conf in the region hosting 1000+ people every year.
+          JS Conf Armenia is a premier event for software engineers, hosted annually in Yerevan, Armenia. It features esteemed speakers who share their insights with JavaScript developers of varying expertise levels.
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM24 is going to be held on June 9 at Synergy Business Center.
+          JSConfAM24 is going to be held on June 9 at Armenak Armeniakyan 4, Synergy Business Center.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
@@ -18,7 +18,6 @@
         </p>
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
-          Anyone who has knowledge to share with developer peers who use JavaScript.
           To see the line up, please,
           <a href="#Speakers">click here</a>.
         </p>
@@ -43,8 +42,8 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The registration call will be announced soon. Follow our social media for the updates.
-          <!-- The entry is invite-only. Send your invite request <a href="https://bit.ly/joinJSConfAM22">here</a>. -->
+          The registration has already started. To get your tickets, please,
+          <a href="https://fienta.com/js-conf-armenia-2024">click here</a>.
         </p>
         <!-- <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
@@ -88,7 +87,7 @@ export default {
 }
 
 a {
-  color: #4bb463;
+  color: #FF00AA;
   font-weight: bold;
 }
 
@@ -97,7 +96,7 @@ a {
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 50px;
-  color: #198dbf;
+  color: #FF00AA;
 }
 
 .Question {

@@ -98,7 +98,7 @@ export default {
 
   .Title {
     text-align: center;
-    color: #198dbf;
+    color: #FF00AA;
     margin-bottom: 30px;
   }
 

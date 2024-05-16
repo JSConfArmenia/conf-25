@@ -9,13 +9,10 @@
           <h1 class="Title">What Is</h1>
           <h3 class="Subtitle">JavaScript Conference Armenia?</h3>
 
-          <h4 class="Answer">Where JavaScript Ninjas meet!</h4>
+          <h4 class="Answer">Where JavaScript Lovers meet!</h4>
 
           <p class="Description">
-            JavaScript Conference provides a platform for developers to share their ideas,
-            experiences and knowledge. Come and learn about the modern
-            development ecosystem by attending talks and workshops.
-            Network with other developers who love what they do.
+            JS Conf Armenia is a premier event for software engineers, hosted annually in Yerevan, Armenia. It features esteemed speakers who share their insights with JavaScript developers of varying expertise levels.
           </p>
         </div>
       </div>
@@ -44,7 +41,7 @@ export default {
 .Title {
   font-size: 75px;
   text-transform: uppercase;
-  color: #ffdd00;
+  color: #FF00AA;
   margin-bottom: 0;
   line-height: 1em;
 }

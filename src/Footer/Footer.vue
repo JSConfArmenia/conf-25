@@ -138,10 +138,11 @@ a:not(.LogoLink):not(.SocialIcon) {
 @media (max-width: 500px) {
   .Footer {
     min-height: 500px;
+    width: 100%;
   }
 
   .FooterBgLeft {
-    background-color: #ffe549;
+    // background-color: #ffe549;
   }
 }
 

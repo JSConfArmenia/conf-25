@@ -108,7 +108,7 @@ export default {
 }
 
 .Title {
-  color: #198dbf;
+  color: black;
   text-align: center;
 }
 

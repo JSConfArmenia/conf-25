@@ -50,15 +50,15 @@ export default {
 
 <style lang="scss">
 
-@import '/fonts/BambinoNew/stylesheet.css';
+@import '/fonts/Ambit/stylesheet.css';
 
 #app {
   // font-family: 'Avenir', Helvetica, Arial, sans-serif;
 
-  font-family: 'Bambino New', 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Ambit', 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   // -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: black;
 }
 
 .Container {
@@ -90,17 +90,19 @@ export default {
     background-color: #ffffff;
 
     &:hover {
-      border-bottom: 2px solid #ffdd00;
+      border-bottom: 2px solid #FFFF00;
     }
   }
 
   &.-call-to-action {
-    background: #ffdd00;
-    color: #2c3e50;
+    background: #FF00AA;
+    color: white;
 
     &:hover {
-      background: #ffdd00;
-      color: #2c3e50;
+      border: 2px solid black;
+      border-radius: 2px;
+      background-color: black;
+      color: white
     }
   }
 
@@ -118,7 +120,7 @@ export default {
   &:active {
     top: 1px;
     transform: all .1s ease;
-    color: #ffdd00;
+    color: #FFFF00;
   }
 
   &:hover,

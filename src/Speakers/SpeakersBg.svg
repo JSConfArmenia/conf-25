@@ -5,27 +5,6 @@
       <rdf:Description rdf:about=""/>
    </rdf:RDF>
 </x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
 <?xpacket end="w"?></metadata>
 <defs>
     <style>
@@ -38,7 +17,7 @@
     <filter id="filter" x="731" y="3295" width="1995" height="1451" filterUnits="userSpaceOnUse">
       <feOffset result="offset" in="SourceAlpha"/>
       <feGaussianBlur result="blur" stdDeviation="7.141"/>
-      <feFlood result="flood" flood-color="#a2a2a2" flood-opacity="0.3"/>
+      <feFlood result="flood" flood-color="#FF00AA" flood-opacity="0.6"/>
       <feComposite result="composite" operator="in" in2="blur"/>
       <feBlend result="blend" in="SourceGraphic"/>
     </filter>

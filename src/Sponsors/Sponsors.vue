@@ -187,7 +187,7 @@ export default {
 }
 
 .Subtutle {
-  color: #ef4e4e;
+  color: #FF00AA;
   font-size: 32px;
 }
 
@@ -197,7 +197,7 @@ export default {
 
 .Subtitle {
   color: #acacac;
-  color: #ef4e4e;
+  color: #FF00AA;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -288,98 +288,16 @@ export default {
     background-image: url('/sponsors/nolanai.svg');
   }
 
-  &.Sponsor-CodeSignal .Image {
-    background-image: url('/sponsors/codesignal.png');
-    background-size: 240px;
-  }
-
-  &.Sponsor-MentorcliQ .Image {
-    background-image: url('/sponsors/mentorcliq.svg');
-    background-size: 240px;
-  }
-
-&.Sponsor-VMware .Image {
-    background-image: url('/sponsors/vmware.png');
-    background-size: 240px;
-}
-
-  &.Sponsor-PicsArt .Image {
-    background-image: url('/sponsors/picsart.png');
-    background-size: contain;
-  }
-
-  &.Sponsor-Krisp .Image {
-    background-image: url('/sponsors/krisp.svg');
-  }
-
-  &.Sponsor-Hexact .Image {
-    background-image: url('/sponsors/hexact.svg');
-    background-size: 240px;
-  }
-
-  &.Sponsor-WebbFontaine .Image {
-    background-image: url('/sponsors/webbfontaine.svg');
-    background-size: 240px;
-  }
-
-  &.Sponsor-Digitain .Image {
-    background-image: url('/sponsors/digitain.svg');
-    background-size: 240px;
-  }
-
-  &.Sponsor-SPro .Image {
-    background-image: url('/sponsors/s-pro.svg');
-  }
-
-  &.Sponsor-EPAM .Image {
-    background-image: url('/sponsors/epam.png');
-  }
-
-&.Sponsor-Disqo .Image {
-    background-image: url('/sponsors/disqo.svg');
-    background-size: 240px;
-  }
-
-  &.Sponsor-Sololearn .Image {
-    background-image: url('/sponsors/sololearn.svg');
-    background-size: 240px;
-  }
-  &.Sponsor-SoftConstruct .Image {
-    background-image: url('/sponsors/softconstruct.svg');
-    background-size: 240px;
-  }
-
-  &.Sponsor-Flux .Image {
-    background-image: url('/sponsors/flux.png');
-    background-size: contain;
-  }
-
-  &.Sponsor-10Web .Image {
-    background-image: url('/sponsors/10web.svg')
-  }
-
   &.Sponsor-Adobe .Image {
-    background-image: url('/sponsors/adobe.svg')
+    background-image: url('/sponsors/adobe.png')
   }
 
   &.Sponsor-InConceptLab .Image {
     background-image: url('/sponsors/inconceptlab.svg');
   }
 
-  &.Sponsor-Ameriabank .Image {
-    background-image: url('/sponsors/ameriabank.svg');
-  }
-
-  &.Sponsor-SDC .Image {
-    background-image: url('/sponsors/sdc.svg');
-  }
-
   &.Sponsor-Simply .Image {
     background-image: url('/sponsors/simply.svg');
-  }
-
-  &.Sponsor-StepConsulting .Image {
-    background-image: url('/sponsors/stepconsulting.svg');
   }
 }
 

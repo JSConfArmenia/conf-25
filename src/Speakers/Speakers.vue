@@ -58,7 +58,7 @@ export default {
 
 <style scoped lang="scss">
 .Speakers {
-  padding:  100px 0 50px 0;
+  padding:  100px 0;
   position: relative;
 }
 
@@ -77,7 +77,7 @@ export default {
 
   .Accent {
     font-size: 1.2em;
-    color: #93d8f7;
+    color: #FF00AA;
     font-weight: 900;
   }
 }
@@ -136,7 +136,7 @@ export default {
   height: 100%;
   background-repeat: no-repeat;
   background-image: url('./SpeakersBg.svg');
-  background-size: 70%;
+  background-size: 50%;
   background-position-y: 12%;
   background-position-x: right;
 }

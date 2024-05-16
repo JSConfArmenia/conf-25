@@ -261,7 +261,7 @@ a {
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 50px;
-  color: #198dbf;
+  color: black;
 }
 
 .Vacancy {

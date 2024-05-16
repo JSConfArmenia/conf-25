@@ -1,39 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1199.97" height="754" viewBox="0 0 1199.97 754">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
+<svg width="1280" height="990" viewBox="0 0 1080 969" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_87_2023)">
+<path d="M976.338 239.044C866.288 513.644 314.148 479.391 314.148 479.391C-217.246 894.977 -437.446 688.97 -440.898 459.525C-444.35 230.08 -208.492 -34.4966 -1.14076 -116.975C206.211 -199.453 1086.39 -35.5561 976.338 239.044Z" fill="url(#paint0_linear_87_2023)"/>
+</g>
 <defs>
-    <style>
-      .cls-1 {
-        fill: #fd0;
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="M-367.86-333.9C-193.712-466.5-9.85-457.354,118.591-371.668c109.623,73.133,246.67,93.686,372.616,54.913,160.813-49.507,353.22-26.928,539.513,105.474a166.578,166.578,0,0,1,39.25,39.091C1387.12,273.265,1075.96,754,652.5,754c-204.931,0-383.558-112.593-477.4-279.291A300.755,300.755,0,0,0-88.737,321.1q-1.094.007-2.189,0.007C-388.239,321.107-605.4-22.068-367.86-333.9Z"/>
+<filter id="filter0_f_87_2023" x="-690.934" y="-388.368" width="1926.75" height="1356.77" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="125" result="effect1_foregroundBlur_87_2023"/>
+</filter>
+<linearGradient id="paint0_linear_87_2023" x1="157.271" y1="484.237" x2="564.241" y2="57.3075" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF00AA"/>
+<stop offset="1" stop-color="#FFFF00"/>
+</linearGradient>
+</defs>
 </svg>

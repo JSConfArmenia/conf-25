@@ -2,10 +2,10 @@
   <section class="Intro" id="Intro">
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
-      <h2 class="Subtitle">Synergy Business Center</h2>
+      <h2 class="Subtitle">Armenak Armenakyan 4, Yerevan</h2>
       <h3 class="Subtitle">June 9, 2024</h3>
-      <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action" target="_blank">
-        Become a sponsor!
+      <a href="https://fienta.com/js-conf-armenia-2024" class="Button -call-to-action" target="_blank">
+        Get your ticket!
       </a>
     </div>
 
@@ -16,20 +16,20 @@
       <div class="sponsor-logos-container">
         <div>
           <a href="https://rewards.adobe.com/armenia/" target="_blank">
-            <img class="IntroSponsorAdobe" src="/sponsors/adobe.svg" /> 
+            <img class="IntroSponsorAdobe" src="/sponsors/adobe-bw.svg" /> 
           </a>
         </div>
         <div>
           <a href="https://www.simplytechnologies.net/" target="_blank">
-            <img src="/sponsors/simply.svg" />
+            <img src="/sponsors/simply-bw.svg" />
           </a>
         </div>
       </div>
     </div>
 
-    <div class="IntroBgMain"></div>
     <div class="IntroBgLeft"></div>
-    <div class="IntroBgRight"></div>
+    <!-- <div class="IntroBgMain"></div> -->
+    <!-- <div class="IntroBgRight"></div> -->
   </section>
 </template>
 
@@ -81,7 +81,7 @@ export default {
   position: absolute;
   left: 0;
   top: 0;
-  width: 50%;
+  width: 100%;
   height: 100%;
   background-image: url('./IntroBgLeft.svg');
   background-repeat: no-repeat;
@@ -133,7 +133,7 @@ export default {
   }
 
   .Subtitle {
-    text-shadow: 1px 1px 1px #f5f5f591;
+    text-shadow: 1px 1px 1px black;
     font-size: 16px;
   }
 

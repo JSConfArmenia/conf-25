@@ -32,7 +32,7 @@
         <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a>
         <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
-        <!-- <a class="Item RequestInvite" href="https://fienta.com/js-conf-armenia-2024" target="_blank" >Buy a ticket</a> -->
+        <a class="Item RequestInvite" href="https://bit.ly/JSConfAM24sponsors" target="_blank" >Become a sponsor!</a>
         <!-- <a class="Item RequestInvite" href="https://www.youtube.com/c/JavaScriptConferenceArmenia" target="_blank">Watch videos</a> -->
       </nav>
     </div>
@@ -167,18 +167,18 @@ export default {
     }
 
     &.RequestInvite {
-      border: 2px solid #ffdd00;
+      border: 2px solid #FF00AA;
       border-radius: 2px;
       margin-left: 10px;
 
       &:after {
         // display: none;
-        background-color: #ffdd00;
+        background-color: #FF00AA;
       }
 
       &:hover {
-        // background-color: #ffdd00;
-        // color: #fff;
+        background-color: #FF00AA;
+        color: #fff;
       }
     }
   }
@@ -228,6 +228,7 @@ export default {
     right: 0;
     margin: 8px 15px;
     font-size: 30px;
+    color: black;
   }
 
   .Header.-open {

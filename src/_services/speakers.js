@@ -23,5 +23,10 @@ export default {
     img: '/speakers/rouben.png',
     name: 'Rouben Meschian',
     position: 'Founder at Arminova Technologies'
-  }
+  },
+  vahe: {
+  img: '/speakers/vahe.png',
+  name: 'Vahe Momjyan',
+  position: 'Chief Software Officer at TACTUN'
+}
 };

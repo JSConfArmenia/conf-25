@@ -2,7 +2,7 @@
   <section class="Intro" id="Intro">
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
-      <h2 class="Subtitle">Armenak Armenakyan 4, Yerevan</h2>
+      <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2>
       <h3 class="Subtitle">June 9, 2024</h3>
       <a href="https://fienta.com/js-conf-armenia-2024" class="Button -call-to-action" target="_blank">
         Get your ticket!

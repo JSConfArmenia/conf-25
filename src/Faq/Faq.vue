@@ -10,7 +10,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM24 is going to be held on June 9 at Armenak Armeniakyan 4, Synergy Business Center.
+          JSConfAM24 is going to be held on June 9 at Armenak Armeniakyan 2/4, Synergy Business Center.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">

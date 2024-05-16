@@ -1,11 +1,11 @@
 <template>
   <section class="Speakers">
     <div class="Container" id="Speakers">
-      <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2>
+      <!-- <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2>
       <p class="IntroText">
           We no longer accept applications. The speaker line up is coming soon!
-      </p>
-      <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
+      </p> -->
+      <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">
         <div
           class="col-md-3 SpeakerCol"
@@ -22,7 +22,7 @@
             <h5 class="Position">{{speakers[speakerId].position}}</h5>
           </div>
         </div>
-      </div> -->
+      </div>
       <!-- <div class="CallToActionContainer">
         <a href="https://bit.ly/JSConfAM24speakers" class="Button -call-to-action" target="_blank">
           Become a Speaker!
@@ -40,26 +40,11 @@ export default {
   data: () => ({
     speakers,
     speakersList: [
-      'suren',
-      'gleb',
-      'lilit',
-      'sandro',
-      'natalia',
       'davit',
-      'illya',
-      'elmira',
-      'hrach',
-      'vitaly',
-      'nairi',
-      'armenv',
-      'vasiliy',
-      'david',
+      'arpi',
+      'rouben',
+      'erik',
       'armen',
-      'yonatan',
-      'varuzhan',
-      'arsen',
-      'mike',
-      'khachatur',
     ],
   }),
   methods: {

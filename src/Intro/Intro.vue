@@ -15,7 +15,7 @@
       </div>
       <div class="sponsor-logos-container">
         <div>
-          <a href="https://rewards.adobe.com/armenia/" target="_blank">
+          <a href="https://careers.adobe.com/us/en/" target="_blank">
             <img class="IntroSponsorAdobe" src="/sponsors/adobe-bw.svg" /> 
           </a>
         </div>

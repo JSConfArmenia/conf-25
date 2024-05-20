@@ -6,7 +6,7 @@
     <!-- <Schedule /> -->
     <Speakers />
     <Sponsors />
-    <!-- <Jobs /> -->
+    <Jobs />
     <Team />
     <Location />
     <Faq />

@@ -6,7 +6,7 @@
 
         <div class="row justify-content-center">
           <div>
-            <a class="Sponsor Sponsor-Adobe -main" href="https://rewards.adobe.com/armenia/" target="_blank">
+            <a class="Sponsor Sponsor-Adobe -main" href="https://careers.adobe.com/us/en" target="_blank">
               <div class="Image"></div>
             </a>
           </div>

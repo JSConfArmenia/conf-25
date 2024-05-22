@@ -45,7 +45,9 @@ export default {
       'rouben',
       'erik',
       'armen',
-      'vahe'
+      'vahe',
+      'lilit',
+      'arthur',
     ],
   }),
   methods: {

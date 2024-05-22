@@ -66,7 +66,7 @@ export default {
       {
         img: '/team/Rouben_Meschian.jpg',
         name: 'Rouben Meschian',
-        position: 'Founder at Arminova Technologies',
+        position: 'Software Engineer | Educator',
       },
       {
         img: '/team/Edgar_Marukyan.jpg',

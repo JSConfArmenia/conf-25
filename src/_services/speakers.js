@@ -22,11 +22,21 @@ export default {
   rouben: {
     img: '/speakers/rouben.png',
     name: 'Rouben Meschian',
-    position: 'Founder at Arminova Technologies'
+    position: 'Software Engineer | Educator'
   },
   vahe: {
   img: '/speakers/vahe.png',
   name: 'Vahe Momjyan',
   position: 'Chief Software Officer at TACTUN'
+},
+  arthur: {
+  img: '/speakers/arthur.png',
+  name: 'Arthur Arakelyan',
+  position: 'Sr. Backend Software Engineer at Simply Technologies'
+},
+  lilit: {
+  img: '/speakers/lilit.png',
+  name: 'Lilit Tadevosyan',
+  position: 'Sr. Computer Scientist at Adobe'
 }
 };

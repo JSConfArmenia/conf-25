@@ -3,7 +3,7 @@
     <AppHeader />
     <Intro />
     <About />
-    <!-- <Schedule /> -->
+    <Schedule />
     <Speakers />
     <Sponsors />
     <Jobs />

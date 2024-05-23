@@ -89,7 +89,7 @@ export default {
   .Ruller {
     flex: 1;
     height: 1px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: #FF00AA;
   }
 
   .Item:nth-child(odd) .Ruller {

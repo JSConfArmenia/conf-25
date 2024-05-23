@@ -1,18 +1,18 @@
 <template>
   <section class="Schedule" id="Schedule">
     <div class="Container">
-      <h2 class="Title">Event Schedule</h2>
-      <h3 class="Subtitle">October 23, 2021</h3>
+      <h2 class="Title">AGENDA</h2>
+      <h3 class="Subtitle">June 9, 2024</h3>
       <div class="TimeTable">
         <div class="TimeTableSection">
           <TimeScale
-            :start="'09:30'" :topics="[{ duration: 30 }]" />
+            :start="'11:00'" :topics="[{ duration: 30 }]" />
           <div class="TimeTableContent">
             <div class="TimeTableContentHeader">
               <div class="row">
                 <div class="col">
                   <label class="Label">
-                    Entry
+                    Venue Entry
                   </label>
                 </div>
               </div>
@@ -25,39 +25,39 @@
         </div>
 
         <div class="TimeTableSection">
-          <TimeScale :start="'10:00'" :topics="topics[1]"  />
+          <TimeScale :start="'11:40'" :topics="topics[1]"  />
           <!-- Scrollable content -->
-          <div class="TimeTableContent -scrollable">
+          <div class="TimeTableContent">
             <div class="TimeTableContentHeader">
               <div class="row">
-                <div class="col col-6">
+                <div class="col col-12">
                   <label class="Label">
-                    Hall 1
+                    Conference Hall
                   </label>
                 </div>
-                <div class="col col-6">
+                <!-- <div class="col col-6">
                   <label class="Label">
                     Hall 2
                   </label>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="TimeTableTopics">
               <div class="row">
-                <div class="col col-6">
+                <div class="col col-12">
                   <TopicItem
                     v-for="(topic, index) in topics[1]"
                     :key="index"
                     :topic="topic"
                     :speakers="getTalkSpeakers(topic)" />
                 </div>
-                <div class="col col-6">
+                <!-- <div class="col col-6">
                   <TopicItem
                     v-for="(topic, index) in topics[2]"
                     :key="index"
                     :topic="topic"
                     :speakers="getTalkSpeakers(topic)" />
-                </div>
+                </div> -->
               </div>
 
             </div>
@@ -100,7 +100,6 @@ export default {
 <style scoped lang="scss">
 .Schedule {
   padding: 100px 0 100px;
-  position: relative;
   // overflow-x: hidden;
   // overflow-y: visible;
   z-index: 10;
@@ -108,8 +107,10 @@ export default {
 }
 
 .Title {
-  color: black;
+  color: #FF00AA;
   text-align: center;
+  font-size: 3em;
+  font-weight: 900;
 }
 
 .Subtitle {
@@ -123,17 +124,17 @@ export default {
   top: 0;
   left: 0;
   z-index: -1;
-  &:before {
-    content: " ";
-    position: absolute;
-    width: 22vw;
-    height: 22vw;
-    left: -15vw;
-    top: -11vw;
-    border-radius: 50%;
-    background-color: #93d8f7;
-    display: block;
-  }
+  // &:before {
+  //  content: " ";
+  //  position: absolute;
+  //  width: 22vw;
+  //  height: 22vw;
+  //  left: -15vw;
+  // top: -11vw;
+  // border-radius: 50%;
+  // background-color: #93d8f7;
+  // display: block;
+  // }
 }
 
 @media (max-width: 600px) {
@@ -146,7 +147,7 @@ export default {
 <style scoped>
 
   .TimeTable {
-    /* width: 100%; */
+    width: 100%;
     position: relative;
     margin-right: -15px;
   }
@@ -164,6 +165,7 @@ export default {
   .TimeTable .Label {
     margin: 0;
     font-weight: bold;
+    color: #FF00AA;
   }
 
   .TimeTableSection {

@@ -45,7 +45,7 @@ export default {
 }
 
 a {
-  color: #4bb463;
+  color: #FF00AA;
   font-weight: bold;
 }
 
@@ -54,7 +54,8 @@ a {
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 50px;
-  color: black;
+  color: #FF00AA;
+  font-size: 32px;
 }
 
 .Vacancy {

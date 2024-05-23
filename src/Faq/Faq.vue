@@ -121,7 +121,7 @@ a {
   }
 
   .Title {
-    font-size: 1.6em;
+    font-size: 32px;
     margin-bottom: 20px;
   }
 

@@ -14,18 +14,18 @@
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
-          The conference will be held in Armenian, English and Russian depending on the speaker.
+          All JSConfAM24 talks will be held in Armenian.
         </p>
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
           To see the line up, please,
           <a href="#Speakers">click here</a>.
         </p>
-        <!-- <h3 class="Question">What are the talk topics?</h3>
+        <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
           To see the conf agenda, please,
-          <a href="#Schedule">click here</a>.
-        </p> -->
+          <a href="#Agenda">click here</a>.
+        </p>
         <h3 class="Question">Who are the organizers? </h3>
         <p class="Answer">
           To see JS Conf Armenia team, please,
@@ -45,18 +45,18 @@
           The registration has already started. To get your tickets, please,
           <a href="https://fienta.com/js-conf-armenia-2024">click here</a>.
         </p>
-        <!-- <h3 class="Question">How much is the entry-ticket?</h3>
+        <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The invitation ticket is free of charge.
-        </p> -->
-        <!-- <h3 class="Question">When is the deadline for registration?</h3>
+          The invitation ticket early-bird price is $12.99 until May 30.
+        </p>
+        <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
-          The last batch of invitation tickets will be sent on October 14 at 22:00. Make sure to request your ticket before that.
-        </p> -->
-        <!-- <h3 class="Question">How can I help the team?</h3>
+          There is no deadline for buying ticket but the sooner you get it you cheaper it will cost.
+        </p>
+        <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
         This year we are not accepting volunteer applications but you can share the word about the conf that will be appreciated.
-        </p> -->
+        </p>
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
           The speaker application has already closed.

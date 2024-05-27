@@ -1,5 +1,5 @@
 <template>
-  <section class="Schedule" id="Schedule">
+  <section class="Schedule" id="Agenda">
     <div class="Container">
       <h2 class="Title">AGENDA</h2>
       <h3 class="Subtitle">June 9, 2024</h3>

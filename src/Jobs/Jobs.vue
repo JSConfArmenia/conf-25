@@ -4,17 +4,29 @@
 
     <div class="row Vacancies">
     <!-- Frontend -->
-      <div class="col-md-4">
+      <div class="col-md-6">
         <a href="https://careers.adobe.com/us/en/job/R145407/Engineering-Manager" target="_blank">
             <h3 class="Vacancy">Engineering Manager</h3>
             <p class="Company">Adobe Armenia</p>
         </a>
       </div>
+      <div class="col-md-6">
+        <a href="https://www.linkedin.com/jobs/view/3932522516/" target="_blank">
+            <h3 class="Vacancy">Senior Frontend Developer</h3>
+            <p class="Company">Nolan AI</p>
+        </a>
+      </div>
     <!-- Backend -->
-      <div class="col-md-4">
+      <div class="col-md-6">
         <a href="https://careers.adobe.com/us/en/job/R144037/Sr-Product-Manager" target="_blank">
             <h3 class="Vacancy">Sr. Product Manager</h3>
             <p class="Company">Adobe Armenia</p>
+        </a>
+      </div>
+      <div class="col-md-6">
+        <a href="https://www.linkedin.com/jobs/view/3932090364/" target="_blank">
+            <h3 class="Vacancy">VP of Engineering</h3>
+            <p class="Company">Nolan AI</p>
         </a>
       </div>
     <!-- Fullstack, Mobile & More -->

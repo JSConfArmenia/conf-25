@@ -11,7 +11,7 @@
         </a>
       </div>
       <div class="col-md-6">
-        <a href="https://www.linkedin.com/jobs/view/3932522516/" target="_blank">
+        <a href="https://www.linkedin.com/jobs/view/3932579437" target="_blank">
             <h3 class="Vacancy">Senior Frontend Developer</h3>
             <p class="Company">Nolan AI</p>
         </a>

@@ -4,38 +4,38 @@
 
     <div class="row Vacancies">
     <!-- Frontend -->
-      <div class="col-md-6">
+      <div class="col-md-4">
         <a href="https://careers.adobe.com/us/en/job/R145407/Engineering-Manager" target="_blank">
             <h3 class="Vacancy">Engineering Manager</h3>
             <p class="Company">Adobe Armenia</p>
         </a>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <a href="https://www.linkedin.com/jobs/view/3932579437" target="_blank">
             <h3 class="Vacancy">Senior Frontend Developer</h3>
             <p class="Company">Nolan AI</p>
         </a>
       </div>
     <!-- Backend -->
-      <div class="col-md-6">
+      <div class="col-md-4">
         <a href="https://careers.adobe.com/us/en/job/R144037/Sr-Product-Manager" target="_blank">
             <h3 class="Vacancy">Sr. Product Manager</h3>
             <p class="Company">Adobe Armenia</p>
         </a>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <a href="https://www.linkedin.com/jobs/view/3932090364/" target="_blank">
             <h3 class="Vacancy">VP of Engineering</h3>
             <p class="Company">Nolan AI</p>
         </a>
       </div>
     <!-- Fullstack, Mobile & More -->
-      <!-- <div class="col-md-4">
-        <a href="https://www.simplytechnologies.net/careers/javascript-developer" target="_blank">
-            <h3 class="Vacancy">Full-Stack JS Developer</h3>
+      <div class="col-md-4">
+        <a href="https://www.simplytechnologies.net/backend-developer" target="_blank">
+            <h3 class="Vacancy">Backend Developer</h3>
             <p class="Company">Simply Technologies</p>
         </a>
-      </div> -->
+      </div>
     </div>
 
   </div>

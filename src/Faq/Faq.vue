@@ -14,7 +14,7 @@
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
-          All JSConfAM24 talks will be held in Armenian.
+          All JSConfAM24 talks will be in Armenian.
         </p>
         <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
@@ -47,7 +47,7 @@
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The invitation ticket early-bird price is $12.99 until May 30.
+          The ticket price is $16.23.
         </p>
         <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
@@ -55,7 +55,7 @@
         </p>
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
-        This year we are not accepting volunteer applications but you can share the word about the conf that will be appreciated.
+        This year we are not accepting volunteer applications but you can share the word about the conf. It will be appreciated.
         </p>
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
@@ -64,7 +64,7 @@
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
-          Request JSConfAM24 sponsorship info <a href="https://bit.ly/JSConfAM24sponsors">here</a>.
+          The sponsorship application has already closed.
         </p>
       </div>
     </div>

@@ -143,11 +143,11 @@
             </a>
           </div>
       </section> -->
-      <div class="CallToActionContainer">
+      <!-- <div class="CallToActionContainer">
         <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action" target="_blank">
           Become a sponsor!
         </a>
-      </div>
+      </div> -->
     </div>
 
     <div class="SponsorsBgTop"></div>

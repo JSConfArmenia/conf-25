@@ -7,7 +7,7 @@
       <a href="https://fienta.com/js-conf-armenia-2024" class="Button -call-to-action" target="_blank">
         Get your ticket!
       </a>
-      <Countdown targetDate="2024-06-09T12:00:00"/>
+      <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>
     <div class="IntroSponsor">
       <div class="Description">
@@ -38,7 +38,7 @@ import Countdown from '../Countdown/Countdown.vue';
 
 export default {
 components: {
-  Countdown,
+  // Countdown,
   }
 };
 </script>

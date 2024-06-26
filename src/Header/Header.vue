@@ -33,7 +33,7 @@
         <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
         <!-- <a class="Item RequestInvite" href="https://fienta.com/js-conf-armenia-2024" target="_blank" >Get a ticket</a> -->
-        <!-- <a class="Item RequestInvite" href="https://www.youtube.com/c/JavaScriptConferenceArmenia" target="_blank">Watch videos</a> -->
+        <!-- <a class="Item RequestInvite" href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" target="_blank">Watch videos</a> -->
       </nav>
     </div>
   </div>

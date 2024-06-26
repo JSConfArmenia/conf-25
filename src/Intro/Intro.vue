@@ -4,9 +4,9 @@
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
       <h3 class="Subtitle">June 9, 2024</h3>
-      <!-- <a href="https://fienta.com/js-conf-armenia-2024" class="Button -call-to-action" target="_blank">
-        Get your ticket!
-      </a> -->
+      <a href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" class="Button -call-to-action" target="_blank">
+        Watch videos
+      </a>
       <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>
     <div class="IntroSponsor">

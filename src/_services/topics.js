@@ -15,6 +15,7 @@ export default [
       duration: 50,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/H3PSSpLArpg?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Node.js and GenAI: Deep Dive into the RAG Architecture',
@@ -22,6 +23,7 @@ export default [
       duration: 35,
       levels: [1,2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/optd2Sx2kxI?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Debugging with DevTools: Mastering the Detective Work',
@@ -29,6 +31,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/MSGavsMnZ1k?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
@@ -40,6 +43,7 @@ export default [
       duration: 30,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/yY2VYhxRKLs?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
@@ -51,6 +55,7 @@ export default [
       duration: 45,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/WG1MQf9k48w?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
@@ -62,6 +67,7 @@ export default [
       duration: 45,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/NbEge1ftLZM?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
@@ -73,6 +79,7 @@ export default [
       duration: 45,
       levels: [2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/dOLSrKnc_qA?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
@@ -84,6 +91,7 @@ export default [
       duration: 45,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/aDQXHwI6cKg?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Closing',

@@ -3,13 +3,14 @@
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
-      <h3 class="Subtitle">June 9, 2024</h3>
-      <a href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" class="Button -call-to-action" target="_blank">
+      <h3 class="Subtitle">October, 2025</h3>
+      <img class="Slogan" src="../_assets/vcys.svg" />
+      <!-- <a href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" class="Button -call-to-action" target="_blank">
         Watch videos
-      </a>
+      </a> -->
       <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>
-    <div class="IntroSponsor">
+    <!-- <div class="IntroSponsor">
       <div class="Description">
         General sponsors
       </div>
@@ -25,7 +26,7 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="IntroBgLeft"></div>
     <!-- <div class="IntroBgMain"></div> -->
@@ -34,7 +35,7 @@
 </template>
 
 <script>
-import Countdown from '../Countdown/Countdown.vue';
+// import Countdown from '../Countdown/Countdown.vue';
 
 export default {
 components: {
@@ -61,6 +62,10 @@ components: {
 
 .Subtitle {
   font-size: 36px;
+}
+
+.Slogan {
+  width: 650px;
 }
 
 .IntroSponsor {
@@ -141,6 +146,10 @@ components: {
     font-size: 16px;
   }
 
+  .Slogan {
+    width: 200px;
+  }
+
   .IntroBgMain {
     opacity: 0.77;
   }
@@ -173,6 +182,12 @@ components: {
   }
 }
 
+@media (max-width: 900px) {
+  .Slogan {
+    width: 450px;
+  }
+}
+
 @media (max-width: 600px) {
   .Button {
     padding: 0.7em 2em;
@@ -189,6 +204,10 @@ components: {
 
   .Subtitle {
     font-size: 27px;
+  }
+
+  .Slogan {
+    width: 250px;
   }
 
   .IntroBgMain,

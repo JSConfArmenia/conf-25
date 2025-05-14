@@ -16,16 +16,16 @@
         <p class="Answer">
           All JSConfAM24 talks will be in Armenian.
         </p>
-        <h3 class="Question">Who are the speakers?</h3>
+        <!-- <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
           To see the line up, please,
           <a href="#Speakers">click here</a>.
-        </p>
-        <h3 class="Question">What are the talk topics?</h3>
+        </p> -->
+        <!-- <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
           To see the conf agenda, please,
           <a href="#Agenda">click here</a>.
-        </p>
+        </p> -->
         <h3 class="Question">Who are the organizers? </h3>
         <p class="Answer">
           To see JS Conf Armenia team, please,
@@ -42,29 +42,30 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The registration has already started. To get your tickets, please,
-          <a href="https://fienta.com/js-conf-armenia-2024">click here</a>.
+          The sale of the tickets hasn't started yet.
+          <!-- The registration has already started. To get your tickets, please,
+          <a href="https://fienta.com/js-conf-armenia-2024">click here</a>. -->
         </p>
-        <h3 class="Question">How much is the entry-ticket?</h3>
+        <!-- <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
           The ticket price is $16.23.
-        </p>
-        <h3 class="Question">When is the deadline for registration?</h3>
+        </p> -->
+        <!-- <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
           There is no deadline for buying ticket but the sooner you get it you cheaper it will cost.
         </p>
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
         This year we are not accepting volunteer applications but you can share the word about the conf. It will be appreciated.
-        </p>
+        </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          The speaker application has already closed.
+          The speaker application opening soon.
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
-          The sponsorship application has already closed.
+          The sponsorship application opening soon.
         </p>
       </div>
     </div>

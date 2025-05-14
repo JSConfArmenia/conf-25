@@ -69,7 +69,7 @@ export default {
   }
 
   .smart-object {
-    margin-bottom: 15px;
+    display: none;
   }
 
   .text {

@@ -1,7 +1,7 @@
 <template>
   <section class="Sponsors">
     <div class="Container" id="Sponsors">
-      <section class="Section">
+      <!-- <section class="Section">
         <h3 class="Subtitle">General sponsors</h3>
 
         <div class="row justify-content-center">
@@ -16,8 +16,8 @@
             </a>
           </div>
         </div>
-      </section>
-      <section class="Section">
+      </section> -->
+      <!-- <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
         <div class="row justify-content-center">
@@ -27,7 +27,7 @@
             </a>
         </div>
 
-         <!-- <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <div class="SponsorCol col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-MentorcliQ -gold" href="https://www.mentorcliq.com/" target="_blank">
               <div class="Image"></div>
             </a>
@@ -107,10 +107,9 @@
             <div class="Image"></div>
           </a>
           </div>
-          -->
         </div>
-      </section> 
-      <section class="Section">
+      </section> -->
+      <!-- <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
         <div class="row justify-content-center">
@@ -120,7 +119,7 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
       <!--
       <section class="Section">
         <h3 class="Subtitle">Starter sponsors</h3>
@@ -148,6 +147,10 @@
           Become a sponsor!
         </a>
       </div> -->
+      <h2 class="Title">How to<br><span class="Accent">sponsor?</span></h2>
+      <p class="IntroText">
+          The application opens soon. Follow our socials for the news!
+      </p>
     </div>
 
     <div class="SponsorsBgTop"></div>
@@ -174,16 +177,16 @@ export default {
   position: relative;
 }
 
-.Container {
-  position: relative;
-  z-index: 3;
-}
-
 .IntroText {
  font-size: 2em;
   font-weight: normal;
   line-height: 1.2em;
   margin-bottom: 1em;
+}
+
+.Container {
+  position: relative;
+  z-index: 3;
 }
 
 .Subtutle {
@@ -222,7 +225,7 @@ export default {
 
   .Accent {
     font-size: 1.2em;
-    color: #ffdd00;
+    color: #FF00AA;
     font-weight: 900;
   }
 }
@@ -340,7 +343,15 @@ export default {
 
 @media (max-width: 600px) {
   .Sponsors {
-    min-height: 800px;
+    padding: 50px 0 50px;
+  }
+
+  .Title {
+    font-size: 3em;
+  }
+
+  .IntroText {
+    font-size: 1.5em;
   }
 
   .Sponsor.-main .Image {

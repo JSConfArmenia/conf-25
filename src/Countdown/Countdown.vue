@@ -78,6 +78,6 @@ export default {
 @media (max-width: 450px) {
   .countdown {
     display: none;
-  } 
+  },
   }
 </style>

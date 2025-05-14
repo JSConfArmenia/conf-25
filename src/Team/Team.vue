@@ -61,7 +61,7 @@ export default {
       {
         img: '/team/Gevorg_Harutyunyan.jpg',
         name: 'Gevorg Harutyunyan',
-        position: 'Front-End Tech Lead at Pex.com, Founder at ModularCode',
+        position: 'Founder at ModularCode',
       },
       {
         img: '/team/Rouben_Meschian.jpg',

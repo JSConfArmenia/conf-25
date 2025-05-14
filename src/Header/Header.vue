@@ -24,13 +24,25 @@
       </a>
       <nav class="Navigation" v-smooth-scroll="navConfig">
         <a class="Item" href="#About" v-smooth-scroll="navConfig" v-on:click="close">About</a>
-        <a class="Item" href="#Agenda" v-smooth-scroll="navConfig" v-on:click="close">Agenda</a>
+        <!-- <a class="Item" href="#Agenda" v-smooth-scroll="navConfig" v-on:click="close">Agenda</a> -->
         <a class="Item" href="#Speakers" v-smooth-scroll="navConfig" v-on:click="close">Speakers</a>
         <a class="Item" href="#Sponsors" v-smooth-scroll="navConfig" v-on:click="close">Sponsors</a>
-        <a class="Item" href="#Jobs" v-smooth-scroll="navConfig" v-on:click="close">Jobs</a>
+        <!-- <a class="Item" href="#Jobs" v-smooth-scroll="navConfig" v-on:click="close">Jobs</a> -->
         <a class="Item" href="#Team" v-smooth-scroll="navConfig" v-on:click="close">Team</a>
         <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a>
         <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
+        <div class="Dropdown">
+          <a class="Item" @click="toggleDropdown">Archive</a>
+          <div class="DropdownContent" :class="{ '-active': isDropdownOpen }">
+            <a href="https://2024.jsconf.am" target="_blank">2024</a>
+            <a href="https://2021.jsconf.am" target="_blank">2021</a>
+            <a href="https://2019.jsconf.am" target="_blank">2019</a>
+            <a href="https://2018.jsconf.am" target="_blank">2018</a>
+            <a href="https://2017.jsconf.am" target="_blank">2017</a>
+            <div class="DropdownDivider"></div>
+            <a href="https://reactconf.am" target="_blank">React Conf Armenia 2019</a>
+          </div>
+        </div>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
         <!-- <a class="Item RequestInvite" href="https://fienta.com/js-conf-armenia-2024" target="_blank" >Get a ticket</a> -->
         <!-- <a class="Item RequestInvite" href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" target="_blank">Watch videos</a> -->
@@ -51,6 +63,7 @@ export default {
     return {
       scrollPos: window.scrollY,
       isOpen: false,
+      isDropdownOpen: false,
       navConfig: {
         duration: 1000,
         offset: -66,
@@ -71,7 +84,13 @@ export default {
     },
     close() {
       this.isOpen = false;
+      this.isDropdownOpen = false;
     },
+    toggleDropdown() {
+      if (window.innerWidth <= 600) {
+        this.isDropdownOpen = !this.isDropdownOpen;
+      }
+    }
   },
   computed: {
     isSticked() {
@@ -182,6 +201,49 @@ export default {
       }
     }
   }
+
+  .Dropdown {
+    position: relative;
+    display: inline-block;
+
+    &:hover .DropdownContent {
+      display: block;
+    }
+  }
+
+  .DropdownContent {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 4px;
+
+    &.-active {
+      display: block;
+    }
+
+    a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      font-weight: 600;
+
+      &:hover {
+        background-color: #b9b9b945;
+      }
+    }
+
+    .DropdownDivider {
+      height: 1px;
+      background-color: #e0e0e0;
+      margin: 8px 0;
+    }
+  }
 }
 
 .NavBtn {
@@ -211,6 +273,26 @@ export default {
   .Navigation .Item {
     width: 50%;
     justify-content: center;
+  }
+
+  .Navigation .Dropdown {
+    width: 50%;
+    
+    .Item {
+      width: 100%;
+    }
+
+    .DropdownContent {
+      position: relative;
+      width: 100%;
+      box-shadow: none;
+      margin-top: 5px;
+      text-align: center;
+      
+      a {
+        padding: 8px;
+      }
+    }
   }
 
   .NavigationButton {

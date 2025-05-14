@@ -6,13 +6,13 @@
           <Ninja />
         </div>
         <div class="col col-md-7 offset-md-1">
-          <h1 class="Title">What Is</h1>
-          <h3 class="Subtitle">JavaScript Conference Armenia?</h3>
+          <h1 class="Title">JSConfAM25</h1>
+          <h3 class="Subtitle">VIBE CODE YOUR STARTUP!</h3>
 
-          <h4 class="Answer">Where JavaScript Lovers meet!</h4>
+          <!-- <h4 class="Answer">VIBE CODE YOUR STARTUP!</h4> -->
 
           <p class="Description">
-            JS Conf Armenia is a premier event for software engineers, hosted annually in Yerevan, Armenia. It features esteemed speakers who share their insights with JavaScript developers of varying expertise levels.
+            JS Conf Armenia is a premier event for software engineers, hosted annually in Yerevan, Armenia. It features esteemed speakers, professional talks, Q&As, panel discussions, and a networking hackathon.
           </p>
         </div>
       </div>
@@ -53,8 +53,30 @@ export default {
   text-transform: uppercase;
 }
 
+.Description {
+  font-size: 20px;
+}
+
 .Answer {
   font-size: 24px;
   margin-bottom: 1em;
+}
+
+@media (max-width: 600px) {
+  .Title {
+    font-size: 48px;
+  }
+
+  .Subtitle {
+    font-size: 20px;
+  }
+
+  .Description {
+    font-size: 16px;
+  }
+
+  .About {
+    padding-top: 30px;
+  }
 }
 </style>

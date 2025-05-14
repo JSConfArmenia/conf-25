@@ -1,13 +1,13 @@
 {
-  "name": "conf-22",
+  "name": "conf-24",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "npm run build && echo 2022.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo git@github.com:JSConfArmenia/conf-22.git --branch gh-pages",
-    "deployHttps": "npm run build && echo 2022.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo https://github.com/JSConfArmenia/conf-22.git --branch gh-pages",
+    "deploy": "npm run build && echo 2024.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo git@github.com:JSConfArmenia/conf-24.git --branch gh-pages",
+    "deployHttps": "npm run build && echo 2024.jsconf.am > ./dist/CNAME  && gh-pages -d dist --repo https://github.com/JSConfArmenia/conf-24.git --branch gh-pages",
     "deployMain": "npm run build && echo jsconf.am > ./dist/CNAME && gh-pages -d dist --repo git@github.com:JSConfArmenia/jsconf.am.git --branch gh-pages",
     "deployMainHttps": "npm run build && echo jsconf.am > ./dist/CNAME && gh-pages -d dist --repo https://github.com/JSConfArmenia/jsconf.am.git --branch gh-pages"
   },
@@ -29,8 +29,8 @@
     "@vue/cli-service": "^3.0.1",
     "@vue/eslint-config-airbnb": "^3.0.1",
     "gh-pages": "^1.2.0",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^7.0.1",
+    "sass-embedded": "^1.88.0",
+    "sass-loader": "^10.5.2",
     "vue-template-compiler": "^2.5.17"
   }
 }

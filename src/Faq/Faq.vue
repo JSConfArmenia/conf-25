@@ -10,11 +10,11 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM24 is going to be held on June 9 at Armenak Armeniakyan 2/4, Synergy Business Center.
+          JSConfAM25 is going to be held at Armenak Armeniakyan 2/4, Synergy Business Center.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
-          All JSConfAM24 talks will be in Armenian.
+          All JSConfAM25 talks will be in Armenian.
         </p>
         <!-- <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">

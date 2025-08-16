@@ -1,22 +1,22 @@
 <template>
   <section class="Sponsors">
     <div class="Container" id="Sponsors">
-      <!-- <section class="Section">
+      <section class="Section">
         <h3 class="Subtitle">General sponsors</h3>
 
         <div class="row justify-content-center">
           <div>
-            <a class="Sponsor Sponsor-Adobe -main" href="https://careers.adobe.com/us/en" target="_blank">
+            <a class="Sponsor Sponsor-Krisp -main" href="https://krisp.ai/" target="_blank">
               <div class="Image"></div>
             </a>
           </div>
-          <div>
+          <!-- <div>
             <a class="Sponsor Sponsor-Simply -main" href="https://www.simplytechnologies.net/" target="_blank">
               <div class="Image"></div>
             </a>
-          </div>
+          </div> -->
         </div>
-      </section> -->
+      </section>
       <!-- <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
@@ -291,8 +291,8 @@ export default {
     background-image: url('/sponsors/nolanai.svg');
   }
 
-  &.Sponsor-Adobe .Image {
-    background-image: url('/sponsors/adobe.png')
+  &.Sponsor-Krisp .Image {
+    background-image: url('/sponsors/krisp.svg')
   }
 
   &.Sponsor-InConceptLab .Image {

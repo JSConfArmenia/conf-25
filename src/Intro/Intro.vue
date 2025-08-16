@@ -3,30 +3,30 @@
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
-      <h3 class="Subtitle">October, 2025</h3>
+      <h3 class="Subtitle">October 25, 2025</h3>
       <img class="Slogan" src="../_assets/vcys.svg" />
       <!-- <a href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" class="Button -call-to-action" target="_blank">
         Watch videos
       </a> -->
       <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>
-    <!-- <div class="IntroSponsor">
+    <div class="IntroSponsor">
       <div class="Description">
         General sponsors
       </div>
       <div class="sponsor-logos-container">
         <div>
-          <a href="https://careers.adobe.com/us/en/" target="_blank">
-            <img class="IntroSponsorAdobe" src="/sponsors/adobe-bw.svg" /> 
+          <a href="https://krisp.ai/" target="_blank">
+            <img class="IntroSponsorKrisp" src="/sponsors/krisp.svg" /> 
           </a>
         </div>
-        <div>
+        <!-- <div>
           <a href="https://www.simplytechnologies.net/" target="_blank">
             <img src="/sponsors/simply-bw.svg" />
           </a>
-        </div>
+        </div> -->
       </div>
-    </div> -->
+    </div>
 
     <div class="IntroBgLeft"></div>
     <!-- <div class="IntroBgMain"></div> -->
@@ -82,7 +82,7 @@ components: {
   margin: 16px 0;
 }
 
-.IntroSponsorAdobe {
+.IntroSponsorKrisp {
   width: 150px;
 }
 

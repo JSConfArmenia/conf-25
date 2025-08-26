@@ -142,14 +142,14 @@
             </a>
           </div>
       </section> -->
-      <!-- <div class="CallToActionContainer">
-        <a href="https://bit.ly/JSConfAM24sponsors" class="Button -call-to-action" target="_blank">
-          Become a sponsor!
-        </a>
-      </div> -->
       <h2 class="Title">How to<br><span class="Accent">sponsor?</span></h2>
       <p class="IntroText">
-          The application opens soon. Follow our socials for the news!
+          The application deadline: <strong>September 30, 2025</strong>
+      <div class="CallToActionContainer">
+        <a href="https://forms.gle/Lnx5x9b5J2C2qLbTA" class="Button -call-to-action" target="_blank">
+          Become a sponsor!
+        </a>
+      </div>
       </p>
     </div>
 

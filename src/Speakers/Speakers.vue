@@ -1,9 +1,10 @@
 <template>
   <section class="Speakers">
     <div class="Container" id="Speakers">
-      <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2>
+      <!-- <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2> -->
+      <h2 class="Title">Do you want to be<br><span class="Accent">a speaker?</span></h2>
       <p class="IntroText">
-          The application opens soon. Follow our socials for the news!
+          The application deadline: <strong>September 23, 2025</strong>
       </p>
       <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">
@@ -23,11 +24,11 @@
           </div>
         </div>
       </div> -->
-      <!-- <div class="CallToActionContainer">
-        <a href="https://bit.ly/JSConfAM24speakers" class="Button -call-to-action" target="_blank">
+      <div class="CallToActionContainer">
+        <a href="https://forms.gle/6uFJvHHVXGFw7e3Z7" class="Button -call-to-action" target="_blank">
           Become a Speaker!
         </a>
-      </div> -->
+      </div>
     </div>
     <div class="SpeakersBg"></div>
   </section>

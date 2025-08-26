@@ -10,7 +10,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM25 is going to be held at Armenak Armeniakyan 2/4, Synergy Business Center.
+          JSConfAM25 is going to be held on October 25 at Armenak Armeniakyan 2/4, Synergy Business Center.
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
@@ -60,12 +60,15 @@
         </p> -->
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          The speaker application opening soon.
+          <!-- The speaker application opening soon. -->
+          To submit a topic, please,
+          <a href="#Speakers">click here</a>.
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
-          The sponsorship application opening soon.
+          To learn about our sponsorship options, please,
+          <a href="#Sponsors">click here</a> to request the info.
         </p>
       </div>
     </div>

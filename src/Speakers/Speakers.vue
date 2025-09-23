@@ -4,7 +4,7 @@
       <!-- <h2 class="Title">Who are<br><span class="Accent">the speakers?</span></h2> -->
       <h2 class="Title">Do you want to be<br><span class="Accent">a speaker?</span></h2>
       <p class="IntroText">
-          The application deadline: <strong>Septemberq 23, 2025</strong>
+          The extended deadline: <strong>September 30, 2025</strong>
       </p>
       <!-- <h2 class="Title">Who are<br><span class="Accent">The Speakers?</span></h2>
       <div class="row no-gutters justify-content-center">

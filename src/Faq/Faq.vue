@@ -14,7 +14,7 @@
         </p>
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
-          All JSConfAM25 talks will be in Armenian.
+          All JSConfAM25 talks will be in Armenian, English or Russian based on the speaker's preference.
         </p>
         <!-- <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">

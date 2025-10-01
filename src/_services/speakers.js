@@ -15,7 +15,7 @@ export default {
     position: 'Senior Backend Engineer at Not Diamond',
   },
   edgar: {
-    img: '/speakers/edgar.png',
+    img: '/speakers/edgar.jpg',
     name: 'Edgar Marukyan',
     position: 'CTO at Bioneex',
   },

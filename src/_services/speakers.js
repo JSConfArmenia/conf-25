@@ -24,6 +24,11 @@ export default {
     name: 'Armen Vardanyan',
     position: 'Google Developer Expert for Angular, Front-end Team Lead at VOLO',
   },
+  david: {
+    img: '/speakers/david.jpeg',
+    name: 'David Mkrtchyan',
+    position: 'Site Reliability Engineering Lead at Ameriabank'
+  },
   rouben: {
     img: '/speakers/rouben.png',
     name: 'Rouben Meschian',

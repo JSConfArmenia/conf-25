@@ -42,6 +42,7 @@ export default {
     speakersList: [
       'melik',
       'vahram',
+      'david',
       'erik',
       'edgar',
       'rouben',

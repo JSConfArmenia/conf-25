@@ -14,10 +14,10 @@ export default {
     name: 'Erik Davtyan',
     position: 'Senior Backend Engineer at Not Diamond',
   },
-  edgar: {
-    img: '/speakers/edgar.jpg',
-    name: 'Edgar Marukyan',
-    position: 'CTO at Bioneex',
+  anastasia: {
+    img: '/speakers/anastasia.jpg',
+    name: 'Anastasia Egorova',
+    position: 'Frontend Engineer, Course author and Youtuber',
   },
   armen: {
     img: '/speakers/armen.jpg',
@@ -33,5 +33,10 @@ export default {
     img: '/speakers/rouben.png',
     name: 'Rouben Meschian',
     position: 'Software Engineer | Educator'
+  },
+  pavel: {
+    img: '/speakers/pavel.jpg',
+    name: 'Pavel Vostrikov',
+    position: 'Web Engineer at Kaspersky and creator of MoscowJS'
   },
 };

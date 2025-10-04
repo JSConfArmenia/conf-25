@@ -6,7 +6,7 @@
       <div class="smart-object"></div>
       <iframe
         class="Map"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.855609274551!2d44.531557899999996!3d40.1900267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcdbd90d7789%3A0xcf0375615284b006!2s5%2C%202%20Armenak%20Armenakyan%20St%2C%20Yerevan!5e0!3m2!1sen!2sam!4v1759317896448!5m2!1sen!2sam" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.855609274551!2d44.531557899999996!3d40.1900267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcdbd90d7789%3A0xcf0375615284b006!2s5%2C%202%20Armenak%20Armenakyan%20St%2C%20Yerevan!5e0!3m2!1sen!2sam!4v1759317896448!5m2!1sen!2sam" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </iframe>
 
       <span class="text">HERE WE ARE!</span>

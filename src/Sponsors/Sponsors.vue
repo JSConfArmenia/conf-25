@@ -131,26 +131,27 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
         <div class="row justify-content-center">
-          <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-itjobs -starter" href="https://www.itjobs.am/" target="_blank">
+          <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-Mootq -starter" href="https://mootq.am" target="_blank">
               <div class="Image"></div>
-              <h4  class="Name">IT Jobs</h4>
+              <!-- <h4  class="Name">Mootq Access</h4> -->
             </a>
           </div>
-      </section> -->
-      <h2 class="Title">How to<br><span class="Accent">sponsor?</span></h2>
-      <p class="IntroText">
+        </div>
+      </section>
+      <!-- <h2 class="Title">How to<br><span class="Accent">sponsor?</span></h2> -->
+      <!-- <p class="IntroText">
           The application deadline: <strong>September 30, 2025</strong>
       <div class="CallToActionContainer">
         <a href="https://forms.gle/Lnx5x9b5J2C2qLbTA" class="Button -call-to-action" target="_blank">
           Become a sponsor!
         </a>
       </div>
-      </p>
+      </p> -->
     </div>
 
     <div class="SponsorsBgTop"></div>
@@ -287,6 +288,17 @@ export default {
     }
   }
 
+  &.-starter {
+    .Image {
+      width: 160px;
+      height: 50px;
+    }
+
+    .Name {
+      font-size: .9em;
+    }
+  }
+
   &.Sponsor-NolanAI .Image {
     background-image: url('/sponsors/nolanai.svg');
   }
@@ -301,6 +313,10 @@ export default {
 
   &.Sponsor-Simply .Image {
     background-image: url('/sponsors/simply.svg');
+  }
+
+  &.Sponsor-Mootq .Image {
+    background-image: url('/sponsors/mootq.svg');
   }
 }
 

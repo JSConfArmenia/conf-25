@@ -16,11 +16,11 @@
         <p class="Answer">
           All JSConfAM25 talks will be in Armenian, English or Russian based on the speaker's preference.
         </p>
-        <!-- <h3 class="Question">Who are the speakers?</h3>
+        <h3 class="Question">Who are the speakers?</h3>
         <p class="Answer">
           To see the line up, please,
           <a href="#Speakers">click here</a>.
-        </p> -->
+        </p>
         <!-- <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
           To see the conf agenda, please,
@@ -42,33 +42,34 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The sale of the tickets hasn't started yet.
+          The sale of the tickets starts October 6.
           <!-- The registration has already started. To get your tickets, please,
           <a href="https://fienta.com/js-conf-armenia-2024">click here</a>. -->
         </p>
-        <!-- <h3 class="Question">How much is the entry-ticket?</h3>
+        <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The ticket price is $16.23.
-        </p> -->
-        <!-- <h3 class="Question">When is the deadline for registration?</h3>
+          The earlybird ticket price is 10.500 AMD.
+        </p>
+        <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
           There is no deadline for buying ticket but the sooner you get it you cheaper it will cost.
         </p>
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
         This year we are not accepting volunteer applications but you can share the word about the conf. It will be appreciated.
-        </p> -->
+        </p>
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          <!-- The speaker application opening soon. -->
-          To submit a topic, please,
-          <a href="#Speakers">click here</a>.
+          The speaker application has closed.
+          <!-- To submit a topic, please,
+          <a href="#Speakers">click here</a>. -->
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           <!-- Sign up <a href="https://bit.ly/3qRPuOm">here</a> for conference news and sponsorship opportunities in 2024. -->
-          To learn about our sponsorship options, please,
-          <a href="#Sponsors">click here</a> to request the info.
+          <!-- To learn about our sponsorship options, please,
+          <a href="#Sponsors">click here</a> to request the info. -->
+          The speaker application has closed.
         </p>
       </div>
     </div>

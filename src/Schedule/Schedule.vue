@@ -1,7 +1,7 @@
 <template>
   <section class="Schedule" id="Agenda">
     <div class="Container">
-      <h2 class="Title">Preliminary AGENDA</h2>
+      <h2 class="Title">AGENDA</h2>
       <h3 class="Subtitle">October 25, 2025</h3>
       <div class="TimeTable">
         <div class="TimeTableSection">

@@ -6,7 +6,7 @@ export default {
   },
   vahram: {
     img: '/speakers/vahram.jpeg',
-    name: 'Vahram Martirosyan',
+    name: 'Dr. Vahram Martirosyan',
     position: 'Experienced System Engineer and Lecturer',
   },
   erik: {

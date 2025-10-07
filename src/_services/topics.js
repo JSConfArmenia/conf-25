@@ -62,13 +62,16 @@ export default [
     {
       name: 'Adventures in embedding spaces',
       speakerId: 'erik',
-      duration: 30,
+      duration: 35,
       levels: [],
       lang: 'am',
     },
     {
-      name: 'Break',
+      name: 'Introduction to MCP',
+      speakerId: 'rouben',
       duration: 35,
+      levels: [],
+      lang: 'am',
     },
     {
       name: "PANEL DISCUSSION: Programming, Vibe Coding. What's Next?",

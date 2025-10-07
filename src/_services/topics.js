@@ -10,95 +10,75 @@ export default [
       duration: 20,
     },
         {
-      name: 'Dependency Injection in JavaScript Frameworks',
-      speakerId: 'armen',
-      duration: 50,
-      levels: [1, 2],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/H3PSSpLArpg?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
-    },
-    {
-      name: 'Node.js and GenAI: Deep Dive into the RAG Architecture',
-      speakerId: 'arthur',
-      duration: 35,
-      levels: [1,2],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/optd2Sx2kxI?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
-    },
-    {
-      name: 'Debugging with DevTools: Mastering the Detective Work',
-      speakerId: 'lilit',
+      name: 'npm Security: Key Threats & Real Cases',
+      speakerId: 'anastasia',
       duration: 35,
       levels: [],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/MSGavsMnZ1k?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
+      lang: 'ru',
     },
     {
-      name: 'Break',
-      duration: 15,
-    },
-    {
-      name: 'Let\'s Not Get Hacked',
-      speakerId: 'davit',
-      duration: 30,
-      levels: [1, 2],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/yY2VYhxRKLs?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
-    },
-    {
-      name: 'Break',
-      duration: 15,
-    },
-    {
-      name: 'Rust for JavaScript Programmers',
-      speakerId: 'vahe',
-      duration: 45,
+      name: 'Form forms and reform that way',
+      speakerId: 'pavel',
+      duration: 35,
       levels: [],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/WG1MQf9k48w?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
+      lang: 'ru',
     },
     {
-      name: 'Break',
-      duration: 30,
-    },
-    {
-      name: 'System Design Fundamentals',
-      speakerId: 'arpi',
-      duration: 45,
-      levels: [],
-      lang: 'am',
-      videoUrl: 'https://youtu.be/NbEge1ftLZM?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
-    },
-    {
-      name: 'Break',
-      duration: 15,
-    },
-    {
-      name: 'Logic with Advanced TypeScript Types',
+      name: 'Adventures in embedding spaces',
       speakerId: 'erik',
-      duration: 45,
-      levels: [2],
+      duration: 35,
+      levels: [],
       lang: 'am',
-      videoUrl: 'https://youtu.be/dOLSrKnc_qA?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
     },
     {
       name: 'Break',
       duration: 15,
     },
     {
-      name: 'Programming Practices for Developing High-Quality Software',
-      speakerId: 'rouben',
+      name: 'Do not be afraid. Building AI powered apps with NodeJS and Gemini',
+      speakerId: 'armen',
+      duration: 35,
+      levels: [2, 3],
+      lang: 'am',
+    },
+    {
+      name: 'DynamoDB, Neptune, and OpenSearch: A Unified Approach to Collaborative Editing and Search',
+      speakerId: 'melik',
+      duration: 30,
+      levels: [],
+      lang: 'am',
+    },
+    {
+      name: 'Break',
+      duration: 40,
+    },
+    {
+      name: 'High performance computing: the modern approach',
+      speakerId: 'vahram',
+      duration: 35,
+      levels: [],
+      lang: 'am',
+    },
+    {
+      name: 'From First Experiments to AI Agents: Adoption Experience and Future Challenges',
+      speakerId: 'david',
       duration: 45,
       levels: [],
       lang: 'am',
-      videoUrl: 'https://youtu.be/aDQXHwI6cKg?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU'
+    },
+    {
+      name: 'Break',
+      duration: 15,
+    },
+    {
+      name: "PANEL DISCUSSION: Programming, Vibe Coding. What's Next?",
+      speakerId: [],
+      duration: 60,
+      levels: [],
+      lang: 'am',
     },
     {
       name: 'Closing',
-      duration: 30,
-    },
-    {
-      name: 'Afterparty',
       duration: 30,
     },
   ],

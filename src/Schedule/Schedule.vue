@@ -2,7 +2,7 @@
   <section class="Schedule" id="Agenda">
     <div class="Container">
       <h2 class="Title">AGENDA</h2>
-      <h3 class="Subtitle">June 9, 2024</h3>
+      <h3 class="Subtitle">October 25, 2025</h3>
       <div class="TimeTable">
         <div class="TimeTableSection">
           <TimeScale

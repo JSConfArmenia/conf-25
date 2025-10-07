@@ -2,17 +2,17 @@
   <section class="Intro" id="Intro">
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
-      <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
       <h3 class="Subtitle">October 25, 2025</h3>
-      <img class="Slogan" src="../_assets/slogan.svg" />
-      <!-- <a href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" class="Button -call-to-action" target="_blank">
-        Watch videos
-      </a> -->
+      <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
+      <!-- <img class="Slogan" src="../_assets/slogan.svg" /> -->
+      <a href="https://mootq.com/events/js-conf-armenia-2025" class="Button -call-to-action" target="_blank">
+        Get Your Ticket
+      </a>
       <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>
     <div class="IntroSponsor">
       <div class="Description">
-        General sponsors
+        General sponsor
       </div>
       <div class="sponsor-logos-container">
         <div>

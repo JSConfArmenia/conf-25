@@ -39,4 +39,9 @@ export default {
     name: 'Pavel Vostrikov',
     position: 'Web Engineer at Kaspersky and creator of MoscowJS'
   },
+  edgar: {
+    img: '/speakers/edgar.jpg',
+    name: 'Edgar Marukyan',
+    position: 'CTO at Bioneex'
+  },
 };

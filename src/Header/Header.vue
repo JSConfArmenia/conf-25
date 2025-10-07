@@ -24,7 +24,7 @@
       </a>
       <nav class="Navigation" v-smooth-scroll="navConfig">
         <a class="Item" href="#About" v-smooth-scroll="navConfig" v-on:click="close">About</a>
-        <!-- <a class="Item" href="#Agenda" v-smooth-scroll="navConfig" v-on:click="close">Agenda</a> -->
+        <a class="Item" href="#Agenda" v-smooth-scroll="navConfig" v-on:click="close">Agenda</a>
         <a class="Item" href="#Speakers" v-smooth-scroll="navConfig" v-on:click="close">Speakers</a>
         <a class="Item" href="#Sponsors" v-smooth-scroll="navConfig" v-on:click="close">Sponsors</a>
         <!-- <a class="Item" href="#Jobs" v-smooth-scroll="navConfig" v-on:click="close">Jobs</a> -->
@@ -44,7 +44,7 @@
           </div>
         </div>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
-        <!-- <a class="Item RequestInvite" href="https://fienta.com/js-conf-armenia-2024" target="_blank" >Get a ticket</a> -->
+        <a class="Item RequestInvite" href="https://mootq.com/events/js-conf-armenia-2025" target="_blank" >Get your ticket</a>
         <!-- <a class="Item RequestInvite" href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" target="_blank">Watch videos</a> -->
       </nav>
     </div>

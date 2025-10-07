@@ -7,7 +7,9 @@
         </div>
         <div class="col col-md-7 offset-md-1">
           <h1 class="Title">JSConfAM25</h1>
-          <h3 class="Subtitle">VIBE HARD, CODE SMART!</h3>
+          <br>
+          <img class="Slogan" src="../_assets/slogan.svg" />
+          <!-- <h3 class="Subtitle">VIBE HARD, CODE SMART!</h3> -->
           <p class="Description">
             JS Conf Armenia is a premier event for software engineers, hosted annually in Yerevan, Armenia. It features esteemed speakers, professional talks, Q&As, panel discussions, and a networking hackathon.
           </p>

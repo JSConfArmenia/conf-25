@@ -21,11 +21,11 @@
           To see the line up, please,
           <a href="#Speakers">click here</a>.
         </p>
-        <!-- <h3 class="Question">What are the talk topics?</h3>
+        <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
           To see the conf agenda, please,
           <a href="#Agenda">click here</a>.
-        </p> -->
+        </p>
         <h3 class="Question">Who are the organizers? </h3>
         <p class="Answer">
           To see JS Conf Armenia team, please,
@@ -42,13 +42,13 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The sale of the tickets starts October 6.
-          <!-- The registration has already started. To get your tickets, please,
-          <a href="https://fienta.com/js-conf-armenia-2024">click here</a>. -->
+          <!-- The sale of the tickets starts October 6. -->
+          The registration has already started. To get your tickets, please,
+          <a href="https://mootq.com/events/js-conf-armenia-2025">click here</a>.
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The earlybird ticket price is 10.500 AMD.
+          The earlybird ticket price is 10.500 AMD until October 18.
         </p>
         <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">

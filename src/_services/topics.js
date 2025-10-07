@@ -69,7 +69,7 @@ export default [
     {
       name: 'Introduction to MCP',
       speakerId: 'rouben',
-      duration: 35,
+      duration: 30,
       levels: [],
       lang: 'am',
     },

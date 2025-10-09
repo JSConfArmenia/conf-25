@@ -120,25 +120,22 @@
           </div>
         </div>
       </section> -->
-      <!--
       <section class="Section">
-        <h3 class="Subtitle">Starter sponsors</h3>
+        <h3 class="Subtitle">Silver sponsor</h3>
         <div class="row justify-content-center">
           <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Armsoft -starter" href="http://www.armsoft.am/" target="_blank">
+            <a class="Sponsor Sponsor-Ameriabank -starter" href="http://www.ameriabank.am/" target="_blank">
               <div class="Image"></div>
-              <h4  class="Name">ArmSoft</h4>
             </a>
           </div>
         </div>
-      </section> -->
+      </section>
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
         <div class="row justify-content-center">
           <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Mootq -starter" href="https://mootq.am" target="_blank">
               <div class="Image"></div>
-              <!-- <h4  class="Name">Mootq Access</h4> -->
             </a>
           </div>
         </div>
@@ -299,24 +296,16 @@ export default {
     }
   }
 
-  &.Sponsor-NolanAI .Image {
-    background-image: url('/sponsors/nolanai.svg');
-  }
-
   &.Sponsor-Krisp .Image {
     background-image: url('/sponsors/krisp.svg')
   }
 
-  &.Sponsor-InConceptLab .Image {
-    background-image: url('/sponsors/inconceptlab.svg');
-  }
-
-  &.Sponsor-Simply .Image {
-    background-image: url('/sponsors/simply.svg');
-  }
-
   &.Sponsor-Mootq .Image {
     background-image: url('/sponsors/mootq.svg');
+  }
+
+  &.Sponsor-Ameriabank .Image {
+    background-image: url('/sponsors/ameriabank.svg')
   }
 }
 

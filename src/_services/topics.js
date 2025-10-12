@@ -60,7 +60,7 @@ export default [
       lang: 'am',
     },
     {
-      name: 'Adventures in embedding spaces',
+      name: 'LLM Future is Multi-Model',
       speakerId: 'erik',
       duration: 35,
       levels: [],

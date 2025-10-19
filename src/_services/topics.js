@@ -75,7 +75,7 @@ export default [
     },
     {
       name: "PANEL DISCUSSION: Programming, Vibe Coding. What's Next?",
-      speakerId: [],
+      speakerId: ['edgar1', 'aram', 'vahram','vladimir'],
       duration: 45,
       levels: [],
       lang: 'am',

@@ -85,7 +85,7 @@ export default {
   }),
   methods: {
     getTalkSpeakers: function getSpeaker(topic) {
-      const speakerIds = topic.speakerIds || (topic.speakerId ? [topic.speakerId] : []);
+      const speakerIds = topic.speakerIds || (topic.speakerId ? (Array.isArray(topic.speakerId) ? topic.speakerId : [topic.speakerId]) : []);
 
       return speakerIds.map(speakerId => this.speakers[speakerId] || {});
     },

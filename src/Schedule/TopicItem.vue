@@ -46,7 +46,7 @@
           </div>
           <div class="col-8">
             <div class="Speakers">
-              <div class="Speaker" v-for="speaker in speakers" :key="speaker.speakerId" >
+              <div class="Speaker" v-for="(speaker, index) in speakers" :key="index" >
                 <span
                   v-tooltip.bottom.end="{
                     content: speaker.position,

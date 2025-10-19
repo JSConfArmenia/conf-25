@@ -27,21 +27,36 @@ export default {
   david: {
     img: '/speakers/david.jpeg',
     name: 'David Mkrtchyan',
-    position: 'Site Reliability Engineering Lead at Ameriabank'
+    position: 'Site Reliability Engineering Lead at Ameriabank',
   },
   rouben: {
     img: '/speakers/rouben.png',
     name: 'Rouben Meschian',
-    position: 'Software Engineer | Educator'
+    position: 'Software Engineer | Educator',
   },
   pavel: {
     img: '/speakers/pavel.jpg',
     name: 'Pavel Vostrikov',
-    position: 'Web Engineer at Kaspersky and creator of MoscowJS'
+    position: 'Web Engineer at Kaspersky and creator of MoscowJS',
   },
   edgar: {
     img: '/speakers/edgar.jpg',
     name: 'Edgar Marukyan',
-    position: 'CTO at Bioneex'
+    position: 'CTO at Bioneex',
+  },
+  edgar1: {
+    img: '/speakers/edgar.jpg',
+    name: 'Moderator: Edgar Marukyan',
+    position: 'CTO at Bioneex',
+  },
+  aram: {
+    img: '/speakers/aram.jpg',
+    name: 'Aram Mkhitaryan',
+    position: 'Head at Yandex Armenia & Georgia',
+  },
+  vladimir: {
+    img: '/speakers/vladimir.jpg',
+    name: 'Vladimir Khoetsyan',
+    position: 'CTO at Wirestock',
   },
 };

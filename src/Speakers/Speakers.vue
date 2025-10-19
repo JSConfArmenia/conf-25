@@ -48,7 +48,9 @@ export default {
       'erik',
       'rouben',
       'armen',
-      'edgar'
+      'edgar',
+      'aram',
+      'vladimir'
     ],
   }),
   methods: {

@@ -128,6 +128,11 @@
               <div class="Image"></div>
             </a>
           </div>
+          <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-Synergy -starter" href="https://www.synisys.com/" target="_blank">
+              <div class="Image"></div>
+            </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -306,6 +311,9 @@ export default {
 
   &.Sponsor-Ameriabank .Image {
     background-image: url('/sponsors/ameriabank.svg')
+  }
+  &.Sponsor-Synergy .Image {
+    background-image: url('/sponsors/synergy.svg')
   }
 }
 

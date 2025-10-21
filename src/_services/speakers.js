@@ -52,7 +52,7 @@ export default {
   aram: {
     img: '/speakers/aram.jpg',
     name: 'Aram Mkhitaryan',
-    position: 'Head at Yandex Armenia & Georgia',
+    position: 'Head of Yandex Armenia & Georgia',
   },
   vladimir: {
     img: '/speakers/vladimir.jpg',

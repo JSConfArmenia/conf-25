@@ -48,7 +48,7 @@
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The earlybird ticket price is 10.500 AMD until October 18.
+          The standart ticket price is 14.500 AMD.
         </p>
         <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">

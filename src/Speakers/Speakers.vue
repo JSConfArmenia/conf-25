@@ -40,6 +40,8 @@ export default {
   data: () => ({
     speakers,
     speakersList: [
+      'aram',
+      'vladimir',
       'melik',
       'anastasia',
       'vahram',
@@ -48,9 +50,7 @@ export default {
       'erik',
       'rouben',
       'armen',
-      'edgar',
-      'aram',
-      'vladimir'
+      'edgar'
     ],
   }),
   methods: {

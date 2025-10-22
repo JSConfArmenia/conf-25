@@ -143,6 +143,11 @@
               <div class="Image"></div>
             </a>
           </div>
+          <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-SBC -starter" href="http://www.sbc.am/" target="_blank">
+              <div class="Image"></div>
+            </a>
+          </div>
         </div>
       </section>
       <!-- <h2 class="Title">How to<br><span class="Accent">sponsor?</span></h2> -->
@@ -307,6 +312,9 @@ export default {
 
   &.Sponsor-Mootq .Image {
     background-image: url('/sponsors/mootq.svg');
+  }
+  &.Sponsor-SBC .Image {
+    background-image: url('/sponsors/sbc.png');
   }
 
   &.Sponsor-Ameriabank .Image {

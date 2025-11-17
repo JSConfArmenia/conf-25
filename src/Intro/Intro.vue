@@ -5,8 +5,8 @@
       <h3 class="Subtitle">October 25, 2025</h3>
       <!-- <h2 class="Subtitle">Armenak Armenakyan 2/4, Yerevan</h2> -->
       <!-- <img class="Slogan" src="../_assets/slogan.svg" /> -->
-      <a href="https://mootq.com/events/js-conf-armenia-2025" class="Button -call-to-action" target="_blank">
-        Get Your Ticket
+      <a href="https://youtube.com/playlist?list=PL578TLdGXRcaaur6eJxlX5M17EsEwPHUq&si=uwVjZeMHGzivHVz5" class="Button -call-to-action" target="_blank">
+        Watch the videos
       </a>
       <!-- <Countdown targetDate="2024-06-09T12:00:00"/> -->
     </div>

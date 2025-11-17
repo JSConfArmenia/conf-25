@@ -15,6 +15,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'ru',
+      videoUrl: 'https://youtu.be/MAc4vU2V6v0?si=e3dkyjsNd-7V0iR8'
     },
     {
       name: 'Form forms and reform that way',
@@ -22,6 +23,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'ru',
+      videoUrl: 'https://youtu.be/ks1UdpyF3E0?si=WBwozyv8JxXMMEXC'
     },
     {
       name: 'From First Experiments to AI Agents: Adoption Experience and Future Challenges',
@@ -29,6 +31,7 @@ export default [
       duration: 30,
       levels: [],
       lang: 'ru',
+      videoUrl: 'https://youtu.be/PUGEgu6o5cw?si=WWvLWNjka5gMNZxO'
     },
     {
       name: 'Break',
@@ -40,6 +43,7 @@ export default [
       duration: 35,
       levels: [1,2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/neaG0t2BfmE?si=yFjtmbibscFQqmHC'
     },
     {
       name: 'DynamoDB, Neptune, and OpenSearch: A Unified Approach to Collaborative Editing and Search',
@@ -47,6 +51,7 @@ export default [
       duration: 30,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/aOsH3OOwNq4?si=sPGIyOWuoG2TvSw9'
     },
     {
       name: 'Break',
@@ -58,6 +63,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://youtu.be/G9wyDenjTpg?si=HYF0Y3z-LrwMclzM'
     },
     {
       name: 'LLM Future is Multi-Model',
@@ -65,6 +71,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/ysYIMUsxIIA?si=V25btQysdghYAyU5'
     },
     {
       name: 'Introduction to MCP',
@@ -72,6 +79,7 @@ export default [
       duration: 30,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/VR6r40j-pxg?si=1xfS7rnffgAZ_ZHO'
     },
     {
       name: "PANEL DISCUSSION: Programming, Vibe Coding. What's Next?",
@@ -79,6 +87,7 @@ export default [
       duration: 45,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://youtu.be/tloz8ROc5n0?si=3cMAyDZv0WGR-P6D'
     },
     {
       name: 'Closing',

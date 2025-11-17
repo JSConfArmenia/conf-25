@@ -44,7 +44,7 @@
           </div>
         </div>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a>-->
-        <a class="Item RequestInvite" href="https://mootq.com/events/js-conf-armenia-2025" target="_blank" >Get your ticket</a>
+        <!-- <a class="Item RequestInvite" href="https://mootq.com/events/js-conf-armenia-2025" target="_blank" >Get your ticket</a> -->
         <!-- <a class="Item RequestInvite" href="https://www.youtube.com/playlist?list=PL578TLdGXRcbGQlY1_X64IIDM4dF9rzsU" target="_blank">Watch videos</a> -->
       </nav>
     </div>
